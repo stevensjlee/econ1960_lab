@@ -1,2 +1,5 @@
-# econ1960_lab
-Lab sessions for ECON1960
+# ECON 1960 Honors Tutorial for Economics Majors
+Lab sessions
+
+Course website: https://jzhangg.github.io/teaching/econ1960_fall2024
+
