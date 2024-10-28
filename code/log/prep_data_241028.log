@@ -1,0 +1,640 @@
+---------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/code/log/prep_data_241028.log
+  log type:  text
+ opened on:  28 Oct 2024, 15:29:51
+
+. 
+. 
+. ********************************************************************************
+. ******************************** (1) Ways to import dataset ********************
+. ********************************************************************************
+. 
+. 
+. 
+. ****** (A) Simulated dataset
+.    set obs 100
+Number of observations (_N) was 0, now 100.
+
+. 
+. ****** (B) STATA example datasets
+. 
+.    * List example Stata datasets installed with Stata
+.      sysuse dir
+  auto.dta                 nlsw88.dta               zbmiageukwhopreterm.dta  zlhtageukwhoterm.dta
+  auto16.dta               nlswide1.dta             zbmiageukwhoterm.dta     zllageuk.dta
+  auto2.dta                pop2000.dta              zbmiageus.dta            zshtageuk.dta
+  autornd.dta              sandstone.dta            zbmiagewho.dta           zssagewho.dta
+  bplong.dta               sp500.dta                zbmicat.dta              ztsagewho.dta
+  bpwide.dta               surface.dta              zhcageius.dta            zwsageuk.dta
+  cancer.dta               tsline1.dta              zhcageuk.dta             zwtagecomus.dta
+  census.dta               tsline2.dta              zhcageukwhopreterm.dta   zwtageuk.dta
+  citytemp.dta             uslifeexp.dta            zhcageukwhoterm.dta      zwtageukwhopreterm.dta
+  citytemp4.dta            uslifeexp2.dta           zhcagewho.dta            zwtageukwhoterm.dta
+  educ99gdp.dta            voter.dta                zhtageuk.dta             zwtagewho.dta
+  gnp96.dta                xtline1.dta              zhtageus.dta             zwthtus.dta
+  lifeexp.dta              zacagewho.dta            zlenageius.dta           zwthtwho.dta
+  network1.dta             zbfageuk.dta             zlhagewho.dta            zwtlenius.dta
+  network1a.dta            zbmiageuk.dta            zlhtageukwhopreterm.dta  zwtlenwho.dta
+
+. 
+.    * Use example dataset installed with Stata
+.          sysuse dir
+  auto.dta                 nlsw88.dta               zbmiageukwhopreterm.dta  zlhtageukwhoterm.dta
+  auto16.dta               nlswide1.dta             zbmiageukwhoterm.dta     zllageuk.dta
+  auto2.dta                pop2000.dta              zbmiageus.dta            zshtageuk.dta
+  autornd.dta              sandstone.dta            zbmiagewho.dta           zssagewho.dta
+  bplong.dta               sp500.dta                zbmicat.dta              ztsagewho.dta
+  bpwide.dta               surface.dta              zhcageius.dta            zwsageuk.dta
+  cancer.dta               tsline1.dta              zhcageuk.dta             zwtagecomus.dta
+  census.dta               tsline2.dta              zhcageukwhopreterm.dta   zwtageuk.dta
+  citytemp.dta             uslifeexp.dta            zhcageukwhoterm.dta      zwtageukwhopreterm.dta
+  citytemp4.dta            uslifeexp2.dta           zhcagewho.dta            zwtageukwhoterm.dta
+  educ99gdp.dta            voter.dta                zhtageuk.dta             zwtagewho.dta
+  gnp96.dta                xtline1.dta              zhtageus.dta             zwthtus.dta
+  lifeexp.dta              zacagewho.dta            zlenageius.dta           zwthtwho.dta
+  network1.dta             zbfageuk.dta             zlhagewho.dta            zwtlenius.dta
+  network1a.dta            zbmiageuk.dta            zlhtageukwhopreterm.dta  zwtlenwho.dta
+
+.      sysuse census, clear // You need to add "clear" as an option to remove previous data from memory before 
+> importing new data.
+(1980 Census data by state)
+
+. 
+.          
+. ****** (C) Files in excel or delimited
+. 
+.    * Depending on raw file, "import delim" (.csv) or "import excel" (.xls/.xlsx)
+.      import excel using "$rawdir/cps.xls", firstrow clear
+(14 vars, 999 obs)
+
+.      import delim using "$rawdir/cps.csv", clear
+(encoding automatically selected: ISO-8859-1)
+(14 vars, 1,000 obs)
+
+.   
+.    * Save file in .dta format
+.      save "$intdir/cps.dta", replace // option replace needed to overwrite an existing file.
+file /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/data/interim/cps.dta saved
+
+.      *Note: never overwrite raw data! If you work with raw data and make changes to the dataset, save it with
+>  a different name!
+. 
+. 
+. ****** (C) Files with .dta format
+.      
+.    * Import dataset
+.      use "$intdir/cps.dta", clear
+
+. 
+. 
+. 
+. ********************************************************************************
+. ******************************** (2) Locals and globals ********************
+. ********************************************************************************
+. 
+. 
+. * Create global with a string
+.         global  stata "I LOVE STATA"
+
+.         display "$stata"
+I LOVE STATA
+
+. 
+.         global varlist age sex race
+
+.         di "$varlist"
+age sex race
+
+. 
+. 
+. * Create local with a string
+.         local   stata1 = "I LOVE STATA"
+
+.         display "`stata1'"
+I LOVE STATA
+
+. 
+.         local varlist2 age sex race
+
+.         di "`varlist2''"
+age sex race'
+
+. 
+. 
+. * Create local with a value
+.         local num_poly = 3
+
+. 
+.         forvalues i = 1/`num_poly' {
+  2.                 gen age_power_`i' = age^`i'
+  3.         }
+
+. 
+. 
+. ********************************************************************************
+. ******************************** (3) Visualizing the data **********************
+. ********************************************************************************
+. 
+. 
+. * Count the number of observations
+.   count
+  1,000
+
+. 
+. * Browse data
+.   browse
+
+. 
+. * Describe data
+.   describe
+
+Contains data from /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/data/interim/cps.dta
+ Observations:         1,000                  
+    Variables:            17                  28 Oct 2024 15:29
+---------------------------------------------------------------------------------------------------------------
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+---------------------------------------------------------------------------------------------------------------
+incwage         long    %12.0g                
+inctot          long    %12.0g                
+state           str20   %20s                  
+age             byte    %8.0g                 
+sex             str6    %9s                   
+race            str31   %31s                  
+marst           str23   %23s                  
+vetstat         str10   %10s                  
+hispan          str40   %40s                  
+empstat         str30   %30s                  
+labforce        str26   %26s                  
+ind             int     %8.0g                 
+educ            str51   %51s                  
+randnum         float   %9.0g                 
+age_power_1     float   %9.0g                 
+age_power_2     float   %9.0g                 
+age_power_3     float   %9.0g                 
+---------------------------------------------------------------------------------------------------------------
+Sorted by: 
+     Note: Dataset has changed since last saved.
+
+. 
+. * Summarize data
+.   su
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+     incwage |      1,000    57794.88    68905.47        600     850000
+      inctot |      1,000    63325.49    76418.45        605     957500
+       state |          0
+         age |      1,000      41.154    12.72353         18         65
+         sex |          0
+-------------+---------------------------------------------------------
+        race |          0
+       marst |          0
+     vetstat |          0
+      hispan |          0
+     empstat |          0
+-------------+---------------------------------------------------------
+    labforce |          0
+         ind |      1,000    6132.104    2848.357          0       9590
+        educ |          0
+     randnum |      1,000    .0066461    .0038091   .0000104   .0131933
+ age_power_1 |      1,000      41.154    12.72353         18         65
+-------------+---------------------------------------------------------
+ age_power_2 |      1,000    1855.378    1068.877        324       4225
+ age_power_3 |      1,000    89787.15    72762.93       5832     274625
+
+. 
+. * Summarize a numeric variable
+.   su age
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+         age |      1,000      41.154    12.72353         18         65
+
+.   su age, d // detail option for more statistics
+
+                             age
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%           18             18
+ 5%           21             18
+10%           24             18       Obs               1,000
+25%           31             18       Sum of wgt.       1,000
+
+50%           41                      Mean             41.154
+                        Largest       Std. dev.      12.72353
+75%           51             65
+90%           59             65       Variance       161.8882
+95%           62             65       Skewness       .0581304
+99%           64             65       Kurtosis       1.995681
+
+. 
+. * Obtain the list of stored results and work with them
+.   return list
+
+scalars:
+                  r(N) =  1000
+              r(sum_w) =  1000
+               r(mean) =  41.154
+                r(Var) =  161.8881721721722
+                 r(sd) =  12.72352829101159
+           r(skewness) =  .0581304101343243
+           r(kurtosis) =  1.995681026885902
+                r(sum) =  41154
+                r(min) =  18
+                r(max) =  65
+                 r(p1) =  18
+                 r(p5) =  21
+                r(p10) =  24
+                r(p25) =  31
+                r(p50) =  41
+                r(p75) =  51
+                r(p90) =  59
+                r(p95) =  62
+                r(p99) =  64
+
+. 
+.   display r(mean)
+41.154
+
+. 
+.   local mean r(mean)
+
+.   display `mean'
+41.154
+
+. 
+. * Tabulate one variable
+.   tab race
+
+                           race |      Freq.     Percent        Cum.
+--------------------------------+-----------------------------------
+   American Indian/Aleut/Eskimo |         16        1.60        1.60
+                     Asian only |         70        7.00        8.60
+          Black-American Indian |          1        0.10        8.70
+                    Black/Negro |        141       14.10       22.80
+ Hawaiian/Pacific Islander only |          9        0.90       23.70
+                          White |        739       73.90       97.60
+          White-American Indian |          4        0.40       98.00
+                    White-Asian |          7        0.70       98.70
+                    White-Black |         10        1.00       99.70
+    White-Black-American Indian |          1        0.10       99.80
+              White-Black-Asian |          1        0.10       99.90
+White-Hawaiian/Pacific Islander |          1        0.10      100.00
+--------------------------------+-----------------------------------
+                          Total |      1,000      100.00
+
+. 
+. * Tabulate two variables
+.   tab sex marst
+
+           |                               marst
+       sex |  Divorced  Married..  Married..  Never m..  Separated    Widowed |     Total
+-----------+------------------------------------------------------------------+----------
+    Female |        47          5        254        154          7          5 |       472 
+      Male |        38         10        305        157         13          5 |       528 
+-----------+------------------------------------------------------------------+----------
+     Total |        85         15        559        311         20         10 |     1,000 
+
+. 
+. * Checking for missing values
+.   count if age==.  // missing values for numeric variables 
+  0
+
+.   count if sex=="" // missing values for string variables
+  0
+
+. 
+. * Visualize data (kdensity should only be used with continuous variables)
+.   kdensity incwage
+
+. 
+. * A histogram is a "discretized" version of the kernel density plot
+.   hist age, discrete
+(start=18, width=1)
+
+.   
+.   
+.   
+. 
+. ********************************************************************************
+. ******************************** (4) Data cleaning *****************************
+. ********************************************************************************
+. 
+. * Order variables
+.   browse
+
+.   order state, first
+
+.   order educ, after(state)
+
+.   
+. * Sort observations by one/more variable(s)
+.   sort state 
+
+.   sort state age
+
+.   
+.   
+. * Set numerical values for categorical variable state
+.         encode state, gen(state_num)
+
+. 
+. * Generate an indicator variable        
+.         gen in_labforce = 0 if labforce == "No, not in the labor force"
+(959 missing values generated)
+
+.         replace in_labforce = 1 if labforce == "Yes, in the labor force"
+(953 real changes made)
+
+. 
+.         gen female=0 if sex=="Male"
+(472 missing values generated)
+
+.         replace female=1 if sex=="Female"
+(472 real changes made)
+
+.         drop if female==.
+(0 observations deleted)
+
+.         
+.         gen married = 0 if inlist(marst, "Divorced", "Never married/single", "Separated", "Widowed")
+(574 missing values generated)
+
+.         replace married = 1 if strpos(marst, "Married")
+(574 real changes made)
+
+.         
+.         gen white=(race=="White")
+
+.         gen black=(race=="Black/Negro")
+
+.         gen labforce1=(labforce=="Yes, in the labor force")
+
+. 
+.   
+. * Generate an indicator variable for New England (option #1)
+.   gen     new_england=0 
+
+.   replace new_england=1 if inlist(state, "Rhode Island", "Maine", "New Hampshire", "Massachussets", "Connecti
+> cut", "Vermont")
+(43 real changes made)
+
+. 
+. * Generate an indicator variable for New England (option #2)
+.   gen byte new_england2=(inlist(state, "Rhode Island", "Maine", "New Hampshire", "Massachussets", "Connecticu
+> t", "Vermont"))
+
+.   tab      new_england new_england2
+
+new_englan |     new_england2
+         d |         0          1 |     Total
+-----------+----------------------+----------
+         0 |       957          0 |       957 
+         1 |         0         43 |        43 
+-----------+----------------------+----------
+     Total |       957         43 |     1,000 
+
+. 
+. * Generate an indicator variable for New England (option #3)
+.   gen new_england3=0 
+
+. 
+.   * Long line of code
+.     replace new_england3=1 if state=="Rhode Island" | state== "Maine" | state== "New Hampshire" | state== "Ma
+> ssachussets" | state=="Connecticut" | state=="Vermont" 
+(43 real changes made)
+
+. 
+.    * Break long line of code (option #1)
+.      replace new_england3=1 if state=="Rhode Island" | state== "Maine" | state== "New Hampshire" ///
+>                             | state== "Massachussets" | state=="Connecticut" | state=="Vermont" 
+(0 real changes made)
+
+. 
+.    * Break long line of code (option #2)
+.      replace new_england3=1 if state=="Rhode Island" | state== "Maine" | state== "New Hampshire" /*
+>                          */ | state== "Massachussets" | state=="Connecticut" | state=="Vermont" 
+(0 real changes made)
+
+. 
+.    * Break long line of code (option #3)
+.     # delimit ;
+delimiter now ;
+.         replace new_england3=1  if state=="Rhode Island" | state== "Maine" | state== "New Hampshire" 
+>                              | state== "Massachussets" | state=="Connecticut" | state=="Vermont" ;
+(0 real changes made)
+
+.     # delimit cr
+delimiter now cr
+. 
+. * Rename a variable
+.   rename new_england3 new_england4
+
+. 
+. * Label values of a variable
+.   label define lnew_england 0 "Rest of US" 1 "New England" // define label
+
+.   label values new_england lnew_england                    // attach label to variable values
+
+.   tab   new_england
+
+new_england |      Freq.     Percent        Cum.
+------------+-----------------------------------
+ Rest of US |        957       95.70       95.70
+New England |         43        4.30      100.00
+------------+-----------------------------------
+      Total |      1,000      100.00
+
+.   br    new_england // variables with labels are displayed in blue
+
+. 
+. * Drop values label
+.   label drop lnew_england // drop label
+
+.   tab        new_england
+
+new_england |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        957       95.70       95.70
+          1 |         43        4.30      100.00
+------------+-----------------------------------
+      Total |      1,000      100.00
+
+. 
+. * Drop a variable
+.   drop new_england new_england2 new_england4
+
+.   
+.  
+. * Replace a variable with something different
+. * Let's say we wish to change the unit of measurement to $K
+.   replace incwage = incwage/1000
+variable incwage was long now double
+(1,000 real changes made)
+
+.   
+. * Change variable between numerical and string format
+.   tostring age, replace
+age was byte now str2
+
+.   destring age, replace
+age: all characters numeric; replaced as byte
+
+. 
+. * Drop/keep observations with specific characteristics 
+.   * Drop individuals NILF or not classified in terms of labor force status. "|" is the OR operator. 
+.     tab labforce
+
+                  labforce |      Freq.     Percent        Cum.
+---------------------------+-----------------------------------
+                       NIU |          6        0.60        0.60
+No, not in the labor force |         41        4.10        4.70
+   Yes, in the labor force |        953       95.30      100.00
+---------------------------+-----------------------------------
+                     Total |      1,000      100.00
+
+.     drop if labforce=="NIU" | labforce=="No, not in the labor force"
+(47 observations deleted)
+
+. 
+.    * Drop individuals with age less than 18 and greater than 64
+.      drop if age<18 | age>64
+(7 observations deleted)
+
+.          
+.    * Drop unemployed individuals
+.      tab     empstat
+
+                       empstat |      Freq.     Percent        Cum.
+-------------------------------+-----------------------------------
+                       At work |        906       95.77       95.77
+Has job, not at work last week |         16        1.69       97.46
+Unemployed, experienced worker |         24        2.54      100.00
+-------------------------------+-----------------------------------
+                         Total |        946      100.00
+
+.      drop if inlist(empstat,"Unemployed, experienced worker","Unemployed, new worker")
+(24 observations deleted)
+
+. 
+.    * Keep individuals who do not work in manufacturing (industry codes 2000-3999)
+.      keep if !inrange(ind,2000,3999)
+(87 observations deleted)
+
+. 
+. * Compute mean wage income by state
+.   egen avgincwage = mean(incwage), by(state_num)
+
+.   help egen
+
+. 
+. * Alternatively, collapse observations at the state level (average income)
+. 
+.  preserve
+
+. 
+.     collapse (mean) incwage, by(state_num)
+
+.         list
+
+     +------------------------------------+
+     |            state_num       incwage |
+     |------------------------------------|
+  1. |              Alabama          45.1 |
+  2. |               Alaska   172.6666667 |
+  3. |              Arizona   72.70105263 |
+  4. |             Arkansas       56.8225 |
+  5. |           California   68.33639604 |
+     |------------------------------------|
+  6. |             Colorado            82 |
+  7. |          Connecticut          56.2 |
+  8. |             Delaware     34.910625 |
+  9. | District of Columbia   107.7380952 |
+ 10. |              Florida   50.98626316 |
+     |------------------------------------|
+ 11. |              Georgia   66.14885714 |
+ 12. |               Hawaii        56.389 |
+ 13. |                Idaho   34.35445455 |
+ 14. |             Illinois   58.33181818 |
+ 15. |              Indiana         41.75 |
+     |------------------------------------|
+ 16. |                 Iowa   41.95384615 |
+ 17. |               Kansas   37.18666667 |
+ 18. |             Kentucky        37.225 |
+ 19. |            Louisiana   38.04807143 |
+ 20. |                Maine   62.85866667 |
+     |------------------------------------|
+ 21. |             Maryland      69.72615 |
+ 22. |        Massachusetts   53.43593333 |
+ 23. |             Michigan   46.10526316 |
+ 24. |            Minnesota         53.96 |
+ 25. |          Mississippi   37.46771429 |
+     |------------------------------------|
+ 26. |             Missouri   37.66666667 |
+ 27. |              Montana   40.85668182 |
+ 28. |             Nebraska            49 |
+ 29. |               Nevada   45.18023529 |
+ 30. |        New Hampshire        58.258 |
+     |------------------------------------|
+ 31. |           New Jersey   64.48235294 |
+ 32. |           New Mexico   41.28833333 |
+ 33. |             New York        73.116 |
+ 34. |       North Carolina   47.74666667 |
+ 35. |         North Dakota         82.18 |
+     |------------------------------------|
+ 36. |                 Ohio     98.112625 |
+ 37. |             Oklahoma      62.50025 |
+ 38. |               Oregon   45.01384615 |
+ 39. |         Pennsylvania   55.10952381 |
+ 40. |         Rhode Island         30.65 |
+     |------------------------------------|
+ 41. |       South Carolina   47.50788235 |
+ 42. |         South Dakota   30.66333333 |
+ 43. |            Tennessee   55.91384615 |
+ 44. |                Texas   47.25686364 |
+ 45. |                 Utah        96.882 |
+     |------------------------------------|
+ 46. |              Vermont      43.08025 |
+ 47. |             Virginia   83.50013333 |
+ 48. |           Washington   49.41968421 |
+ 49. |        West Virginia       45.0501 |
+ 50. |            Wisconsin   65.53333333 |
+     |------------------------------------|
+ 51. |              Wyoming          68.1 |
+     +------------------------------------+
+
+.         graph bar incwage, over(state_num, label(angle(90) labsize(small))) title(Average Income by State) yt
+> itle("Thousand $")
+
+. 
+. restore
+
+.   
+. * Label variables
+.         label variable age "Age"
+
+.         label variable incwage "Wage income (\$K)"
+
+.         label variable inctot "Total income"
+
+.         label variable marst "Marital status"
+
+.         label variable educ "Education"
+
+.         label variable in_labforce "In labor force"
+
+. 
+. * Export cleaned dataset
+. save "$datadir/cps_cleaned.dta", replace 
+file /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/data/cleaned/cps_cleaned.dta saved
+
+. 
+. 
+. log close
+      name:  <unnamed>
+       log:  /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/code/log/prep_data_241028.log
+  log type:  text
+ closed on:  28 Oct 2024, 15:29:55
+---------------------------------------------------------------------------------------------------------------

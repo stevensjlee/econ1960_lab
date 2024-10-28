@@ -1,0 +1,462 @@
+---------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/code/log/analysis_241028.log
+  log type:  text
+ opened on:  28 Oct 2024, 15:30:06
+
+. 
+. 
+. ********************************************************************************
+. ******************************** (1) MAIN **************************************
+. ********************************************************************************
+. 
+. do "$codedir/analysis/chart1.do"
+
+. * Chart: Average Income by Age
+. 
+. clear
+
+. use "$datadir/cps_cleaned.dta" 
+
+. 
+. 
+. * Collapse observations at the age level
+.   collapse (mean) incwage, by(age)
+
+. 
+. * Graph Options
+.   global graphconfig    "graphregion(color(white)) bgcolor(white)"
+
+.   global options                "msymbol(none) lwidth(medthick)"
+
+. 
+. * Graphs: a nice situation in which breaking lines is essential
+.   #delimit ;
+delimiter now ;
+.   twoway connected incwage age, 
+>        $options lcolor(ebblue)
+>            xtitle("Age (Years)") ytitle("Average Wage Income (K$)")
+>            ylabel(0(20)140, angle(0)) xlabel(20(5)65, angle(0))
+>            $graphconfig;
+
+.            graph export "$outdir/figures/avgwageincome_wage.jpg", replace;
+file /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/figures/avgwageincome_wage.jpg
+    saved as JPG format
+
+.   #delimit cr
+delimiter now cr
+.   
+.  
+. 
+end of do-file
+
+. 
+. do "$codedir/analysis/table1.do"
+
+. * Table 1: Summary stats
+. 
+. 
+. use "$datadir/cps_cleaned.dta" , clear
+
+. 
+.         
+.         lab var incwage "Wage income"
+
+.         lab var inctot "Total income"
+
+.         lab var age "Age"
+
+.         lab var female "Female"
+
+.         lab var white "White"
+
+.         lab var black "Black"
+
+.         lab var married "Married"
+
+.         lab var labforce1 "In labor force"
+
+. 
+.         eststo clear
+
+.         eststo: estpost tabstat incwage inctot age female white black married labforce1, stat(mean sd min max
+>  N) col(stat)
+
+Summary statistics: Mean SD Min Max count
+     for variables: incwage inctot age female white black married labforce1
+
+             |   e(Mean)      e(SD)     e(Min)     e(Max)   e(count) 
+-------------+-------------------------------------------------------
+     incwage |  58.73391   71.83619          1        850        835 
+      inctot |   63924.5   79303.95       1000     957500        835 
+         age |  40.94132   12.46213         18         64        835 
+      female |   .497006   .5002907          0          1        835 
+       white |  .7341317   .4420592          0          1        835 
+       black |   .142515   .3497871          0          1        835 
+     married |  .5712575   .4951929          0          1        835 
+   labforce1 |         1          0          1          1        835 
+(est1 stored)
+
+. 
+.         #delimit;
+delimiter now ;
+.         esttab using "$outdir/tables/table1.tex", replace booktabs label nogaps noobs nonum nomtitles 
+>                 cells("Mean(fmt(3)) SD(fmt(3)) Min(fmt(0)) Max(fmt(0)) count(fmt(0) label(N))");
+(output written to /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/tables/table1.tex)
+
+.                 #delimit cr
+delimiter now cr
+. 
+end of do-file
+
+. do "$codedir/analysis/table2.do"
+
+. * Table 2: Regression results
+. use "$datadir/cps_cleaned.dta" , clear
+
+. 
+. 
+. 
+. eststo clear
+
+. 
+. eststo spec1: reghdfe inctot female, absorb(state) cluster(state)
+(MWFE estimator converged in 1 iterations)
+
+HDFE Linear regression                            Number of obs   =        835
+Absorbing 1 HDFE group                            F(   1,     50) =      23.41
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.0838
+                                                  Adj R-squared   =     0.0241
+                                                  Within R-sq.    =     0.0212
+Number of clusters (state)   =         51         Root MSE        = 78340.6272
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -22883.72   4729.268    -4.84   0.000    -32382.73    -13384.7
+       _cons |   75297.84   2350.474    32.04   0.000     70576.78    80018.91
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+-----------------------------------------------------+
+* = FE nested within cluster; treated as redundant for DoF computation
+
+.         estadd local statefe "Yes": spec1
+
+.         estadd local agefe "No": spec1
+
+.         estadd local racefe "No": spec1
+
+.         estadd local indfe "No": spec1
+
+.         
+. eststo spec2: reghdfe inctot female, absorb(state age) cluster(state)
+(MWFE estimator converged in 8 iterations)
+
+HDFE Linear regression                            Number of obs   =        835
+Absorbing 2 HDFE groups                           F(   1,     50) =      23.46
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.1883
+                                                  Adj R-squared   =     0.0814
+                                                  Within R-sq.    =     0.0190
+Number of clusters (state)   =         51         Root MSE        = 76006.7260
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -20939.76   4323.235    -4.84   0.000    -29623.23   -12256.29
+       _cons |   74331.69   2148.674    34.59   0.000     70015.95    78647.42
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+         age |        47           1          46     |
+-----------------------------------------------------+
+* = FE nested within cluster; treated as redundant for DoF computation
+
+.         estadd local statefe "Yes": spec2
+
+.         estadd local agefe "Yes": spec2
+
+.         estadd local racefe "No": spec2
+
+.         estadd local indfe "No": spec2
+
+.         
+. eststo spec3: reghdfe inctot female, absorb(state age race) cluster(state)
+(dropped 2 singleton observations)
+(MWFE estimator converged in 9 iterations)
+
+HDFE Linear regression                            Number of obs   =        833
+Absorbing 3 HDFE groups                           F(   1,     50) =      25.47
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.2014
+                                                  Adj R-squared   =     0.0873
+                                                  Within R-sq.    =     0.0207
+Number of clusters (state)   =         51         Root MSE        = 75837.1455
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -21827.77   4324.752    -5.05   0.000    -30514.29   -13141.25
+       _cons |   74697.41   2149.396    34.75   0.000     70380.22     79014.6
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+         age |        47           1          46     |
+        race |         8           1           7     |
+-----------------------------------------------------+
+* = FE nested within cluster; treated as redundant for DoF computation
+
+.         estadd local statefe "Yes": spec3
+
+.         estadd local agefe "Yes": spec3
+
+.         estadd local racefe "Yes": spec3
+
+.         estadd local indfe "No": spec3
+
+. 
+. eststo spec4: reghdfe inctot female, absorb(state age race ind) cluster(state)
+(dropped 48 singleton observations)
+(MWFE estimator converged in 11 iterations)
+
+HDFE Linear regression                            Number of obs   =        787
+Absorbing 4 HDFE groups                           F(   1,     50) =      16.25
+Statistics robust to heteroskedasticity           Prob > F        =     0.0002
+                                                  R-squared       =     0.3403
+                                                  Adj R-squared   =     0.1166
+                                                  Within R-sq.    =     0.0135
+Number of clusters (state)   =         51         Root MSE        = 71324.5591
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -18064.11   4481.806    -4.03   0.000    -27066.08   -9062.138
+       _cons |   72243.41   2249.445    32.12   0.000     67725.27    76761.55
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+         age |        47           1          46     |
+        race |         8           1           7     |
+         ind |        96           1          95    ?|
+-----------------------------------------------------+
+? = number of redundant parameters may be higher
+* = FE nested within cluster; treated as redundant for DoF computation
+
+.         estadd local statefe "Yes": spec4
+
+.         estadd local agefe "Yes": spec4
+
+.         estadd local racefe "Yes": spec4
+
+.         estadd local indfe "Yes": spec4
+
+.         
+. #delimit;
+delimiter now ;
+. esttab using "$outdir/tables/table2.tex", replace booktabs
+>         se label nonotes r2
+>         coeflabel(female "Female")
+>         scalars("statefe State FE" "agefe Age FE" "racefe Race FE" "indfe Industry FE")
+>         star(* 0.1 ** 0.05 *** 0.01);
+(output written to /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/tables/table2.tex)
+
+. #delimit cr
+delimiter now cr
+. 
+. 
+. 
+. 
+. 
+end of do-file
+
+. do "$codedir/analysis/table3.do"
+
+. * Table 3: Regression results using outreg
+. use "$datadir/cps_cleaned.dta" , clear
+
+. 
+. * ssc install outreg2 // do this only once
+. 
+. *outreg
+. reghdfe inctot female married, absorb(state) cluster(state)
+(MWFE estimator converged in 1 iterations)
+
+HDFE Linear regression                            Number of obs   =        835
+Absorbing 1 HDFE group                            F(   2,     50) =      58.80
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.1221
+                                                  Adj R-squared   =     0.0637
+                                                  Within R-sq.    =     0.0620
+Number of clusters (state)   =         51         Root MSE        = 76737.6338
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -21163.47    4600.18    -4.60   0.000    -30403.21   -11923.74
+     married |      32109   4196.247     7.65   0.000     23680.59    40537.41
+       _cons |   56100.37   3837.397    14.62   0.000     48392.73       63808
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+-----------------------------------------------------+
+* = FE nested within cluster; treated as redundant for DoF computation
+
+. outreg2 using "$outdir/tables/table3.tex", dec(2) replace label keep(female) addtext(State FE, YES, Age FE, N
+> O, Race FE, NO, Ind FE, NO)
+/Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/tables/table3.tex
+dir : seeout
+
+. reghdfe inctot female married, absorb(state age) cluster(state)
+(MWFE estimator converged in 8 iterations)
+
+HDFE Linear regression                            Number of obs   =        835
+Absorbing 2 HDFE groups                           F(   2,     50) =      35.27
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.1974
+                                                  Adj R-squared   =     0.0905
+                                                  Within R-sq.    =     0.0300
+Number of clusters (state)   =         51         Root MSE        = 75630.5376
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -20336.14   4332.394    -4.69   0.000    -29038.01   -11634.27
+     married |   17695.76   3541.149     5.00   0.000     10583.15    24808.36
+       _cons |   63922.85   3411.516    18.74   0.000     57070.62    70775.08
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+         age |        47           1          46     |
+-----------------------------------------------------+
+* = FE nested within cluster; treated as redundant for DoF computation
+
+. outreg2 using "$outdir/tables/table3.tex", dec(2) append label keep(female) addtext(State FE, YES, Age FE, YE
+> S, Race FE, NO, Ind FE, NO)
+/Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/tables/table3.tex
+dir : seeout
+
+. reghdfe inctot female married, absorb(state age race) cluster(state)
+(dropped 2 singleton observations)
+(MWFE estimator converged in 9 iterations)
+
+HDFE Linear regression                            Number of obs   =        833
+Absorbing 3 HDFE groups                           F(   2,     50) =      38.76
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.2099
+                                                  Adj R-squared   =     0.0957
+                                                  Within R-sq.    =     0.0311
+Number of clusters (state)   =         51         Root MSE        = 75485.4349
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -21415.46   4315.407    -4.96   0.000    -30083.21   -12747.71
+     married |   17456.21   3130.529     5.58   0.000     11168.36    23744.06
+       _cons |   64517.51   3156.893    20.44   0.000     58176.71    70858.32
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+         age |        47           1          46     |
+        race |         8           1           7     |
+-----------------------------------------------------+
+* = FE nested within cluster; treated as redundant for DoF computation
+
+. outreg2 using "$outdir/tables/table3.tex", dec(2) append label keep(female) addtext(State FE, YES, Age FE, YE
+> S, Race FE, YES, Ind FE, NO)
+/Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/tables/table3.tex
+dir : seeout
+
+. reghdfe inctot female married, absorb(state age race ind) cluster(state)
+(dropped 48 singleton observations)
+(MWFE estimator converged in 11 iterations)
+
+HDFE Linear regression                            Number of obs   =        787
+Absorbing 4 HDFE groups                           F(   2,     50) =      13.92
+Statistics robust to heteroskedasticity           Prob > F        =     0.0000
+                                                  R-squared       =     0.3461
+                                                  Adj R-squared   =     0.1229
+                                                  Within R-sq.    =     0.0222
+Number of clusters (state)   =         51         Root MSE        = 71068.3941
+
+                                 (Std. err. adjusted for 51 clusters in state)
+------------------------------------------------------------------------------
+             |               Robust
+      inctot | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      female |  -17502.57   4364.304    -4.01   0.000    -26268.53   -8736.608
+     married |   15243.85   4188.762     3.64   0.001     6830.473    23657.23
+       _cons |   63187.16   3169.263    19.94   0.000      56821.5    69552.81
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+       state |        51          51           0    *|
+         age |        47           1          46     |
+        race |         8           1           7     |
+         ind |        96           1          95    ?|
+-----------------------------------------------------+
+? = number of redundant parameters may be higher
+* = FE nested within cluster; treated as redundant for DoF computation
+
+. outreg2 using "$outdir/tables/table3.tex", dec(2) append label keep(female) addtext(State FE, YES, Age FE, YE
+> S, Race FE, YES, Ind FE, YES)
+/Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/output/tables/table3.tex
+dir : seeout
+
+. 
+end of do-file
+
+. 
+. 
+. log close
+      name:  <unnamed>
+       log:  /Users/Jac/Dropbox (Personal)/Brown/2024Fall/ECON 1960/template/code/log/analysis_241028.log
+  log type:  text
+ closed on:  28 Oct 2024, 15:30:08
+---------------------------------------------------------------------------------------------------------------

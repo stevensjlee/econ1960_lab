@@ -1,0 +1,22 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{4}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+                    &\multicolumn{1}{c}{Total income}&\multicolumn{1}{c}{Total income}&\multicolumn{1}{c}{Total income}&\multicolumn{1}{c}{Total income}\\
+\midrule
+Female              &    -22883.7\sym{***}&    -20939.8\sym{***}&    -21827.8\sym{***}&    -18064.1\sym{***}\\
+                    &    (4729.3)         &    (4323.2)         &    (4324.8)         &    (4481.8)         \\
+\addlinespace
+Constant            &     75297.8\sym{***}&     74331.7\sym{***}&     74697.4\sym{***}&     72243.4\sym{***}\\
+                    &    (2350.5)         &    (2148.7)         &    (2149.4)         &    (2249.4)         \\
+\midrule
+Observations        &         835         &         835         &         833         &         787         \\
+\(R^{2}\)           &       0.084         &       0.188         &       0.201         &       0.340         \\
+State FE            &         Yes         &         Yes         &         Yes         &         Yes         \\
+Age FE              &          No         &         Yes         &         Yes         &         Yes         \\
+Race FE             &          No         &          No         &         Yes         &         Yes         \\
+Industry FE         &          No         &          No         &          No         &         Yes         \\
+\bottomrule
+\end{tabular}
+}

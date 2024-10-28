@@ -1,0 +1,1001 @@
+incwage,inctot,state,age,sex,race,marst,vetstat,hispan,empstat,labforce,ind,educ,randnum
+42000,42010,Arizona,39,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,High school diploma or equivalent,.000010355463
+56000,50000,New Hampshire,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7180,Some college but no degree,.000041171214
+20000,20000,Texas,55,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8690,Bachelor's degree,.000062893363
+14000,14000,California,38,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",9070,High school diploma or equivalent,.000073653253
+42000,48000,South Carolina,53,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Master's degree,.000077374003
+50000,58175,Texas,28,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9480,Bachelor's degree,.000096876109
+90000,90001,Montana,48,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8390,Bachelor's degree,.00011146635
+60000,60000,North Carolina,31,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8090,Professional school degree,.00011182213
+33000,41120,Florida,46,Female,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",4970,Master's degree,.00013274676
+159000,170000,District of Columbia,62,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9170,Professional school degree,.00014671778
+35000,35000,California,26,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4990,High school diploma or equivalent,.00017337262
+64000,66012,District of Columbia,50,Female,White,Divorced,No service,Puerto Rican,At work,"Yes, in the labor force",7270,Some college but no degree,.00017648822
+22000,22002,Florida,52,Female,White,"Married, spouse present",No service,Cuban,At work,"Yes, in the labor force",7280,"Associate's degree, occupational/vocational program",.00019117328
+40000,40500,Vermont,46,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.00021132054
+30000,38220,South Dakota,37,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, academic program",.00022976719
+27040,32440,California,32,Female,Hawaiian/Pacific Islander only,Never married/single,No service,Mexican,At work,"Yes, in the labor force",9590,Some college but no degree,.00024244432
+75000,75001,New Mexico,35,Male,White,Widowed,No service,Other Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.00024420439
+200000,211001,California,59,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Bachelor's degree,.00025957235
+5000,5000,New Jersey,44,Female,White,Separated,No service,Dominican,At work,"Yes, in the labor force",8270,High school diploma or equivalent,.00029812445
+73000,73057,Utah,47,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0003123091
+167000,167000,North Dakota,32,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",370,Some college but no degree,.0003431254
+169000,180757,Wisconsin,49,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5070,Professional school degree,.00035075171
+30000,30741,North Carolina,46,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7370,Bachelor's degree,.00035089525
+110000,110125,Ohio,29,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3580,Master's degree,.00035102942
+50000,50000,Florida,26,Female,Black/Negro,Never married/single,No service,Puerto Rican,At work,"Yes, in the labor force",8190,Bachelor's degree,.00037491563
+73000,78155,New Jersey,39,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.00037578191
+5000,5000,Ohio,37,Male,White,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",7490,High school diploma or equivalent,.000377969
+3000,22200,Indiana,32,Male,White,Never married/single,Yes,Not Hispanic,"NILF, unable to work","No, not in the labor force",0,Bachelor's degree,.00037847186
+25920,33245,Maryland,60,Male,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.00038034259
+45000,45000,Alabama,19,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7870,Some college but no degree,.00039678413
+24099,24121,Virginia,21,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",2190,High school diploma or equivalent,.00041008127
+6000,26000,West Virginia,20,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7870,Some college but no degree,.00041361645
+20000,20000,Delaware,22,Male,White,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",3790,High school diploma or equivalent,.00041974054
+17600,19855,South Carolina,39,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,"Associate's degree, academic program",.00042696969
+31000,31000,Delaware,52,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",180,Grades 5 or 6,.00043557319
+2400,80405,Iowa,52,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",170,"Associate's degree, occupational/vocational program",.00044912746
+38000,41516,South Carolina,41,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4470,High school diploma or equivalent,.00050500891
+22000,22000,North Carolina,37,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4795,"12th grade, no diploma",.00051782344
+47000,47201,Louisiana,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9470,Bachelor's degree,.00052833604
+35942,36442,Montana,31,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9480,Bachelor's degree,.00053641252
+48000,48001,Maryland,43,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6370,Bachelor's degree,.00060289731
+14000,14361,Iowa,30,Female,Black/Negro,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",3990,High school diploma or equivalent,.00061313051
+40000,40000,Maryland,31,Male,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",4580,Grade 9,.00062135101
+55000,55000,Florida,42,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.00062650925
+48000,48060,Washington,45,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",7870,Some college but no degree,.00062740489
+38000,40303,California,64,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9480,"12th grade, no diploma",.0006352418
+75000,75000,California,60,Male,Asian only,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",7680,Some college but no degree,.00063970522
+70000,72041,Texas,34,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9480,Bachelor's degree,.00064473221
+240000,240701,California,53,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6890,Master's degree,.00064580771
+30000,30005,Idaho,47,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",6170,"Associate's degree, academic program",.00066687068
+26000,26577,Ohio,23,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",1490,Some college but no degree,.0006706448
+2700,2700,District of Columbia,19,Female,White-Asian,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",7870,Some college but no degree,.00067093491
+70064,70066,New Hampshire,59,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6690,Bachelor's degree,.00067519903
+25000,25000,North Carolina,22,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",3570,High school diploma or equivalent,.0006792057
+18000,18000,Wisconsin,44,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3170,"Associate's degree, occupational/vocational program",.00070246332
+90000,95011,Oregon,57,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7290,Master's degree,.00070762919
+25000,45000,Texas,57,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8380,High school diploma or equivalent,.00071456184
+156000,157412,Missouri,43,Female,Black/Negro,Divorced,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",1990,Bachelor's degree,.00072713086
+70000,70577,Illinois,43,Female,White-Black,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.00075578777
+3000,9000,Kansas,64,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grade 11,.00077396329
+15600,15601,Texas,30,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7770,"Associate's degree, academic program",.00077922211
+17000,17002,Kentucky,23,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4670,Some college but no degree,.0007947245
+51000,51372,Wisconsin,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.00083906116
+2400,2560,Maryland,19,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8590,High school diploma or equivalent,.00084464066
+60000,66960,District of Columbia,34,Female,Black/Negro,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",7860,High school diploma or equivalent,.00084909442
+28000,28001,New York,34,Female,White,Separated,No service,Dominican,At work,"Yes, in the labor force",1180,Some college but no degree,.00085002318
+4500,4500,Texas,18,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,"12th grade, no diploma",.00085821259
+20000,20000,Montana,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7690,Bachelor's degree,.00087644655
+35002,45052,South Carolina,51,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7290,"Associate's degree, academic program",.00087762921
+780,7780,South Dakota,24,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.00090376148
+50000,51424,Oregon,24,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0009078689
+30000,30000,Oklahoma,58,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",8590,High school diploma or equivalent,.0009087869
+85000,83300,California,61,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.00091017911
+6500,6500,West Virginia,21,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4970,High school diploma or equivalent,.00091123633
+52000,55000,California,45,Female,White,Divorced,No service,Mexican,At work,"Yes, in the labor force",9480,Some college but no degree,.00095387473
+90000,90000,Washington,50,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,High school diploma or equivalent,.00096835446
+100000,100200,California,41,Female,White,Never married/single,No service,Salvadoran,At work,"Yes, in the labor force",8190,Master's degree,.0009765916
+60000,60000,Nevada,51,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.00098310143
+69000,69000,West Virginia,57,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.00099164085
+4000,4404,Montana,18,Female,White-Asian,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grade 11,.00099624461
+29120,29120,Montana,25,Male,White-Black,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,"Associate's degree, academic program",.0010013131
+150000,153500,Georgia,62,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7990,Professional school degree,.001006457
+53000,55101,Illinois,29,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.00101733
+60000,60648,Arkansas,39,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",6170,Bachelor's degree,.0010177423
+100000,100000,Florida,61,Male,White,Divorced,Yes,Not Hispanic,At work,"Yes, in the labor force",3960,Doctorate degree,.0010307262
+179000,179000,New Mexico,51,Female,American Indian/Aleut/Eskimo,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0010413724
+20000,20251,Michigan,26,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7390,Bachelor's degree,.0010596485
+180000,195050,California,51,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Doctorate degree,.0010620567
+55000,56525,Louisiana,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0010678732
+137000,141072,Maryland,64,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4195,Professional school degree,.0010730576
+70000,70100,Massachusetts,59,Female,White,Divorced,Yes,Not Hispanic,At work,"Yes, in the labor force",7460,High school diploma or equivalent,.0010801653
+36000,43013,Pennsylvania,51,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0010826692
+82500,94510,New Hampshire,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3960,Bachelor's degree,.0010889757
+23878,23878,Arkansas,26,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8470,"Associate's degree, academic program",.0010939181
+33000,39026,Hawaii,26,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9590,Some college but no degree,.0011689883
+50000,50000,California,56,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7070,Grades 5 or 6,.0011830745
+38059,57439,Ohio,54,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2870,"Associate's degree, academic program",.0012111377
+25000,26505,Oklahoma,36,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9080,Bachelor's degree,.0012174812
+35000,35000,Maryland,31,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8080,Bachelor's degree,.0012257412
+65000,65052,Arizona,48,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Master's degree,.0012386153
+80060,80060,Tennessee,32,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6380,High school diploma or equivalent,.0012387559
+74000,75005,Ohio,36,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3990,Bachelor's degree,.0012406688
+14000,14000,Michigan,40,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3570,Some college but no degree,.0012868976
+75000,149850,Georgia,53,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",7390,Bachelor's degree,.0012964896
+65000,65505,Ohio,41,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2590,Some college but no degree,.001306785
+35000,35002,Hawaii,29,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,Some college but no degree,.0013099642
+60000,60001,Michigan,54,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7690,High school diploma or equivalent,.0013425068
+5000,5002,Arkansas,18,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grade 11,.0013442836
+34000,36501,Louisiana,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,High school diploma or equivalent,.0013912583
+22000,22000,District of Columbia,40,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6180,High school diploma or equivalent,.0014061824
+38000,38500,Arizona,32,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",6870,High school diploma or equivalent,.0014103017
+4000,4000,Texas,30,Male,White,Never married/single,No service,Salvadoran,"Unemployed, experienced worker","Yes, in the labor force",8680,Bachelor's degree,.0014332063
+30000,30000,Texas,43,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,Grade 11,.0014412851
+35000,59000,Arizona,54,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8080,Bachelor's degree,.0014608765
+64000,65876,South Dakota,32,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Bachelor's degree,.001478867
+35000,35000,Kentucky,19,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8170,Some college but no degree,.0014860558
+39000,42552,New York,52,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3875,Some college but no degree,.0015036567
+39000,39000,Florida,63,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.0015326781
+27002,27002,Maine,47,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8090,"Associate's degree, academic program",.0015621842
+85000,85031,Maine,58,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, retired","No, not in the labor force",0,High school diploma or equivalent,.0015734687
+9600,13200,California,23,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0015841614
+27000,27001,Delaware,38,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5275,Bachelor's degree,.0015909972
+42000,42700,Kansas,39,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.0015999774
+57000,57000,Michigan,59,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7680,High school diploma or equivalent,.0016246289
+75000,75000,Mississippi,47,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2870,High school diploma or equivalent,.0016672792
+85000,86415,Montana,48,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4870,Bachelor's degree,.00169545
+52000,60402,Illinois,38,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",3070,High school diploma or equivalent,.0017135849
+25000,25000,Oregon,35,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",770,Grade 10,.0017450738
+15000,15000,California,41,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0017469019
+46000,46080,Arizona,28,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8290,High school diploma or equivalent,.0017603511
+75000,75000,District of Columbia,24,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7280,Bachelor's degree,.0017872012
+32000,32000,Missouri,24,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4890,High school diploma or equivalent,.0017919708
+29000,29014,Illinois,31,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Master's degree,.0017937213
+36000,36000,California,37,Female,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4970,Some college but no degree,.001814629
+77000,77000,New Hampshire,38,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",1190,High school diploma or equivalent,.0018287017
+67000,72881,Arizona,44,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Master's degree,.0018512072
+10800,10800,North Dakota,22,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.0018542977
+200000,211540,Wisconsin,44,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1870,Bachelor's degree,.0018697303
+40000,40001,California,50,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",9480,Some college but no degree,.0018743799
+30000,30007,Iowa,36,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0018931528
+28000,28000,Alaska,59,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,High school diploma or equivalent,.0018977853
+43500,43520,North Carolina,41,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7690,High school diploma or equivalent,.0019040591
+35000,35000,Kansas,54,Female,White,Never married/single,No service,Other Hispanic,"NILF, other","No, not in the labor force",0,Grade 11,.0019092873
+32500,32500,Georgia,51,Male,Black/Negro,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",7690,Some college but no degree,.0019109255
+120000,136675,Michigan,48,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6090,Master's degree,.0019395002
+34000,34000,Montana,37,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, academic program",.0019513136
+103000,123500,New Jersey,35,Male,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",6390,"Associate's degree, occupational/vocational program",.0020545335
+45000,45001,Washington,28,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5480,High school diploma or equivalent,.0020678765
+10000,10101,Idaho,21,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",4770,Some college but no degree,.0020964788
+35000,35000,Georgia,61,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.0020970104
+96000,113805,Pennsylvania,62,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9390,Bachelor's degree,.0021049592
+12674,13074,Mississippi,27,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7070,"Associate's degree, academic program",.0021234707
+36500,36501,New Jersey,25,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0021319892
+800,800,Mississippi,22,Male,Black/Negro,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.0021389034
+21000,21000,South Dakota,25,Female,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8590,Some college but no degree,.002170848
+40000,40000,California,52,Male,White,"Married, spouse absent",No service,Mexican,At work,"Yes, in the labor force",8590,High school diploma or equivalent,.0021765779
+10000,10780,Vermont,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8590,Grade 11,.0021874774
+95000,95120,Iowa,42,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.002204655
+50000,50000,South Carolina,48,Male,White,"Married, spouse present",No service,Puerto Rican,At work,"Yes, in the labor force",6380,High school diploma or equivalent,.0022168159
+30000,30001,South Carolina,22,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.00222582
+200000,203001,Maryland,41,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Professional school degree,.0022268328
+185000,190000,California,38,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",3960,Bachelor's degree,.0022273823
+40000,40000,Texas,37,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8090,Bachelor's degree,.0022469659
+150000,150215,Florida,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7270,Professional school degree,.0022592153
+30000,35030,Michigan,56,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7860,High school diploma or equivalent,.002284677
+40000,40200,Missouri,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,"Associate's degree, academic program",.0022857648
+28000,28000,Illinois,62,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0022915811
+61000,61282,California,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2190,Doctorate degree,.0023202768
+25000,27000,Michigan,46,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, academic program",.0023575264
+45000,45000,Oklahoma,63,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.0023779604
+56000,57000,Louisiana,48,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4180,"Associate's degree, occupational/vocational program",.002396462
+19285,19286,Delaware,48,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0023983752
+40000,40000,Connecticut,30,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0024209719
+40000,43000,Alaska,27,Female,White,"Married, spouse present",No service,Puerto Rican,At work,"Yes, in the labor force",5390,High school diploma or equivalent,.0024308953
+10401,12801,California,20,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8090,High school diploma or equivalent,.0024450987
+130000,132000,Arizona,37,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Bachelor's degree,.0024454973
+47000,49000,Utah,30,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4090,Bachelor's degree,.0024685701
+123000,126001,New York,51,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6080,High school diploma or equivalent,.0025173642
+28000,28320,North Carolina,62,Male,White,Separated,Yes,Not Hispanic,At work,"Yes, in the labor force",7770,High school diploma or equivalent,.0025243824
+50000,60364,California,23,Male,Black/Negro,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",9170,Bachelor's degree,.0025334477
+18000,18000,Virginia,19,Female,White-Black,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9090,High school diploma or equivalent,.0025370663
+40000,40000,California,58,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",170,"Grades 1, 2, 3, or 4",.0025387832
+11000,11000,California,28,Female,White,Never married/single,No service,Mexican,"NILF, unable to work","No, not in the labor force",0,Some college but no degree,.0025487654
+38500,38543,Kansas,52,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6480,Bachelor's degree,.0025594363
+47000,47027,Massachusetts,57,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, academic program",.0025673565
+76000,77501,Texas,64,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",4690,Some college but no degree,.0025964854
+20000,20000,West Virginia,61,Male,White,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",3190,High school diploma or equivalent,.0026051709
+38000,38405,West Virginia,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6880,High school diploma or equivalent,.002605479
+20000,20000,Minnesota,18,Male,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Grade 11,.002633092
+33000,33000,Idaho,30,Male,White,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",4670,Some college but no degree,.0026369686
+130000,230200,Hawaii,61,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.002639171
+70000,71810,Illinois,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3580,Master's degree,.0026525669
+60000,60000,Massachusetts,43,Male,White,"Married, spouse present",No service,Dominican,At work,"Yes, in the labor force",8770,High school diploma or equivalent,.0026563522
+34000,34344,Maryland,46,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8660,High school diploma or equivalent,.0026595755
+10000,10000,New Mexico,41,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8080,High school diploma or equivalent,.0026672734
+73000,73002,Florida,52,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,"Associate's degree, occupational/vocational program",.0026704993
+35000,35000,California,30,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6570,Bachelor's degree,.002683121
+75000,75001,Kansas,24,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",1180,High school diploma or equivalent,.0026998608
+60000,60360,California,44,Female,White,Divorced,No service,Mexican,At work,"Yes, in the labor force",9480,"Associate's degree, academic program",.0027205774
+33000,33002,Maryland,57,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9290,High school diploma or equivalent,.0027551663
+180000,180052,New York,43,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Master's degree,.0027591316
+116000,117501,Nevada,50,Male,White,Divorced,No service,Mexican,At work,"Yes, in the labor force",7770,Bachelor's degree,.0027712744
+18000,18000,Florida,29,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7670,"Associate's degree, academic program",.0027808039
+11988,11989,California,59,Female,White-American Indian,Widowed,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",8370,High school diploma or equivalent,.0028107704
+6000,6000,West Virginia,58,Male,White,Divorced,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,"Associate's degree, academic program",.0028124745
+60000,60201,Maryland,50,Male,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",8180,Bachelor's degree,.0028125625
+84000,87004,New York,52,Male,Black/Negro,Never married/single,No service,Other Hispanic,At work,"Yes, in the labor force",8770,High school diploma or equivalent,.0028435981
+257000,257065,Virginia,51,Male,White,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",5480,Bachelor's degree,.0028727418
+150000,180055,Massachusetts,65,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7970,Bachelor's degree,.0028889056
+35000,35000,Florida,49,Male,White,Never married/single,No service,South American,At work,"Yes, in the labor force",7870,Bachelor's degree,.0029085779
+26001,26001,West Virginia,57,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8170,High school diploma or equivalent,.0029319266
+60000,60000,Utah,20,Female,Hawaiian/Pacific Islander only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6070,High school diploma or equivalent,.002971916
+72000,72002,Illinois,45,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3570,High school diploma or equivalent,.00298986
+430000,430000,Arizona,32,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7970,Doctorate degree,.0030048972
+15200,15200,West Virginia,25,Female,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",8680,High school diploma or equivalent,.0030088497
+240000,240000,Wyoming,42,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0030114613
+26000,26000,Texas,26,Female,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",7860,"Associate's degree, academic program",.0030148965
+36000,51050,Illinois,45,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",9570,High school diploma or equivalent,.0030166972
+68000,68435,Maine,52,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3680,Bachelor's degree,.0030219795
+41600,41600,Mississippi,20,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8990,Some college but no degree,.0030238016
+24000,24211,Florida,52,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4970,"Associate's degree, occupational/vocational program",.0030330943
+28000,28175,Nevada,31,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8660,Some college but no degree,.0030651223
+100000,102100,Washington,51,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6890,Bachelor's degree,.0030787184
+37923,37923,Oregon,24,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0030797103
+13000,13000,Texas,34,Female,White-Black-American Indian,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",7860,Bachelor's degree,.0031084984
+87000,103187,Minnesota,34,Male,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",6170,Some college but no degree,.0031191388
+39000,39002,Texas,28,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",9470,Bachelor's degree,.0031348998
+132000,146720,District of Columbia,44,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9170,Master's degree,.0031509446
+10000,10000,Georgia,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8590,High school diploma or equivalent,.0031519257
+65000,119064,Ohio,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3390,Bachelor's degree,.0031648017
+350000,366040,California,33,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Master's degree,.0031678888
+45000,45066,Montana,31,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Bachelor's degree,.0031764999
+750000,750000,Ohio,63,Female,White-Black,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9370,Master's degree,.0032134226
+50000,50003,New York,23,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8560,High school diploma or equivalent,.0032272597
+52000,52010,Massachusetts,41,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Master's degree,.0032434438
+10000,45510,Rhode Island,56,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7670,High school diploma or equivalent,.0033136941
+44000,44000,Alaska,29,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6070,High school diploma or equivalent,.0033183105
+12000,12001,Maine,48,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8660,Some college but no degree,.0033264088
+138000,150521,Pennsylvania,40,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",2170,Master's degree,.0033476541
+68000,68000,Alabama,64,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7770,Some college but no degree,.0033482143
+12000,12000,Maine,45,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",8870,High school diploma or equivalent,.0033679209
+108000,114512,Washington,58,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0033699144
+24700,24701,Texas,53,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0034027542
+55000,55000,New Mexico,46,Male,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0034216635
+60000,60045,California,50,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1990,Some college but no degree,.0034307875
+145000,145012,California,47,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7390,Bachelor's degree,.0034434923
+41000,41000,California,29,Male,White,Never married/single,No service,South American,At work,"Yes, in the labor force",4970,"Associate's degree, occupational/vocational program",.0034596701
+59000,59000,New Jersey,36,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0034604478
+2000,2075,Wisconsin,18,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5380,Some college but no degree,.0034718092
+145000,145000,Alabama,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2290,Bachelor's degree,.0034723983
+30000,30000,Michigan,33,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6180,High school diploma or equivalent,.0034775001
+50000,50005,Florida,22,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7860,High school diploma or equivalent,.0035079219
+120000,120000,Tennessee,61,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9290,High school diploma or equivalent,.003513207
+36539,36539,Massachusetts,59,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7970,High school diploma or equivalent,.0035176685
+55000,76000,District of Columbia,33,Female,White,Never married/single,NIU,Not Hispanic,Armed Forces,NIU,0,Bachelor's degree,.0035184396
+19000,41800,California,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7690,High school diploma or equivalent,.0035303524
+85000,163816,California,56,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.003532927
+120000,128003,Colorado,41,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7980,Professional school degree,.0035341375
+72000,72015,New York,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0035357452
+5000,5001,Minnesota,18,Male,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.0035596178
+80000,80102,Georgia,31,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Master's degree,.0035649517
+5000,20659,Rhode Island,18,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4970,Grade 10,.0035874159
+55000,55000,Texas,37,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",4265,Master's degree,.0036058393
+80000,80000,Maryland,38,Male,White,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",9480,Bachelor's degree,.0036060279
+55000,55205,Colorado,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6480,Bachelor's degree,.0036084764
+4000,4000,California,20,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0036098543
+15000,15000,West Virginia,27,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",2470,Some college but no degree,.0036154713
+16000,21000,District of Columbia,29,Male,White,Never married/single,No service,Salvadoran,"Unemployed, experienced worker","Yes, in the labor force",8680,Bachelor's degree,.003627463
+50000,50000,Florida,49,Male,Black/Negro,"Married, spouse absent",Yes,Not Hispanic,At work,"Yes, in the labor force",7290,Some college but no degree,.0036446357
+70000,70001,Minnesota,42,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0036530739
+22476,22476,Florida,47,Female,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",5090,"Associate's degree, academic program",.0036711264
+138000,148511,New York,32,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7380,Master's degree,.0036775409
+32000,32001,Michigan,52,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0037036343
+17000,17000,Florida,48,Female,White,Divorced,No service,South American,At work,"Yes, in the labor force",7690,Some college but no degree,.0037036836
+4000,73540,Pennsylvania,64,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5275,Master's degree,.0037046552
+30000,30000,Nevada,35,Female,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",8980,High school diploma or equivalent,.0037314408
+65000,65175,Utah,30,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8380,Bachelor's degree,.0037319753
+33000,33000,North Carolina,25,Male,White,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0037416546
+4400,4400,California,23,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0037479245
+32000,32000,Montana,21,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8290,High school diploma or equivalent,.0037703807
+100000,100000,Michigan,64,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",2370,Bachelor's degree,.0037737228
+850000,850576,Alaska,53,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.0037776895
+24000,24000,Georgia,57,Male,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0038264161
+24832,26832,South Carolina,53,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0038304068
+64000,64003,Montana,55,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, occupational/vocational program",.0038372483
+18720,18720,New Mexico,27,Female,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8590,Bachelor's degree,.0038566669
+7000,30002,Nebraska,21,Female,White,Never married/single,No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",770,Some college but no degree,.0038738877
+27000,29101,North Carolina,54,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,"Associate's degree, academic program",.0038842827
+33000,33001,Illinois,51,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4770,"Associate's degree, academic program",.0038944986
+35000,35010,Alabama,44,Male,Black/Negro,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",6170,Grade 11,.0038950711
+33000,33200,Michigan,42,Male,White,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0038997643
+44000,50000,California,49,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,"Associate's degree, occupational/vocational program",.0039345999
+7900,8582,Ohio,65,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6470,Bachelor's degree,.0039563267
+55000,55001,California,55,Male,Asian only,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, academic program",.0039689797
+30000,30000,Wyoming,31,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5380,Some college but no degree,.0039803805
+4600,4601,Texas,18,Female,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Grade 11,.0040156627
+70000,70001,Florida,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8660,"Associate's degree, occupational/vocational program",.0040414496
+68000,68512,North Carolina,52,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4170,Some college but no degree,.0040603583
+20000,20003,New Jersey,33,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7270,Bachelor's degree,.0040632361
+50000,50000,California,33,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,Bachelor's degree,.0040746341
+10000,60004,Nebraska,42,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.0040813927
+35000,35000,Missouri,57,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Grade 11,.0040895324
+150000,166003,New Jersey,37,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2190,Doctorate degree,.0041111633
+80000,81201,Washington,46,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5090,Some college but no degree,.0041294834
+70000,70940,Pennsylvania,51,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0041566174
+85000,89030,Texas,40,Male,White,"Married, spouse present",Yes,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",9590,"Associate's degree, occupational/vocational program",.0041668098
+27000,27000,Nevada,24,Male,American Indian/Aleut/Eskimo,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,Some college but no degree,.0041808691
+70000,70010,Texas,24,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7290,Bachelor's degree,.0042065606
+17700,17704,Minnesota,26,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0042087119
+22000,22000,North Carolina,22,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4970,Some college but no degree,.004213782
+22000,26013,New Jersey,58,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5592,High school diploma or equivalent,.0042151571
+70000,86500,District of Columbia,30,Male,White,Never married/single,No service,Other Hispanic,At work,"Yes, in the labor force",490,Master's degree,.0042289915
+48000,48012,West Virginia,49,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9570,Bachelor's degree,.0042356662
+70000,70202,New Jersey,49,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4380,Master's degree,.0042413324
+9000,23280,New Mexico,64,Female,White,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",5490,High school diploma or equivalent,.0042532971
+63500,91502,New York,49,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0042673247
+15000,26400,New Mexico,27,Female,Asian only,Never married/single,Yes,Other Hispanic,At work,"Yes, in the labor force",6990,"Associate's degree, occupational/vocational program",.0042679459
+36000,50964,Massachusetts,30,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7890,Master's degree,.0042938846
+35000,35000,Pennsylvania,29,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.0043084417
+75000,75500,North Carolina,31,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Doctorate degree,.0043215789
+86000,96420,Florida,50,Female,White-Black,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",6670,Master's degree,.0043225852
+25000,25000,Indiana,47,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",6390,Some college but no degree,.0043292614
+38000,38001,Wisconsin,42,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8770,High school diploma or equivalent,.0043525952
+18000,18000,Washington,54,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",6390,Grades 7 or 8,.0043641878
+80000,80150,Kentucky,63,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1370,Some college but no degree,.0043666423
+28000,28000,South Dakota,33,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7470,"Associate's degree, occupational/vocational program",.0043769167
+20000,20000,New Mexico,37,Female,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7670,High school diploma or equivalent,.0043870346
+43500,86150,Maryland,63,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, retired","No, not in the labor force",7860,Master's degree,.0043944921
+85000,85000,Washington,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2570,High school diploma or equivalent,.0044113682
+60000,60002,Pennsylvania,44,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6690,"Associate's degree, academic program",.0044223578
+20800,20800,Nevada,33,Male,White,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",7590,"Associate's degree, academic program",.0044495296
+240000,242253,North Dakota,45,Female,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",8190,Professional school degree,.0044503463
+67000,67100,Alabama,42,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9480,Master's degree,.0044764685
+35000,39779,New York,51,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.0044773314
+62000,62701,Florida,50,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.004482883
+40000,40035,Ohio,56,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.0045139161
+33280,33780,Georgia,24,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5070,"Associate's degree, occupational/vocational program",.0045507066
+11400,11400,New Mexico,21,Female,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8660,Some college but no degree,.0045633451
+36000,36010,California,50,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.0045693158
+11000,11000,Indiana,56,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8090,Some college but no degree,.0045965277
+8000,8006,Delaware,21,Male,White,Never married/single,No service,Puerto Rican,At work,"Yes, in the labor force",7870,Some college but no degree,.0046234732
+52000,64000,South Carolina,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9160,Master's degree,.0046446864
+60000,90013,Hawaii,46,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9570,Bachelor's degree,.0046872501
+106000,106156,New Mexico,45,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Some college but no degree,.0046962956
+27000,27000,California,32,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0047008665
+30000,30000,California,48,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,Some college but no degree,.0047251577
+37000,37000,New Mexico,24,Male,Asian only,Never married/single,No service,Other Hispanic,At work,"Yes, in the labor force",7680,"Associate's degree, occupational/vocational program",.0047314907
+100000,101450,Illinois,48,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Master's degree,.0047419267
+12000,12160,South Dakota,54,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",9090,Some college but no degree,.004757442
+110000,110700,Connecticut,42,Female,White-Black-Asian,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0047645466
+150000,165998,North Carolina,56,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5580,Master's degree,.0047652884
+65000,65100,Texas,62,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Master's degree,.0047720289
+137000,178335,Colorado,55,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",7290,"Associate's degree, academic program",.004799589
+78000,80015,District of Columbia,43,Male,Black-American Indian,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",9480,Master's degree,.0048139882
+26000,26000,Pennsylvania,27,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5275,High school diploma or equivalent,.0048260433
+65000,66040,Ohio,56,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",3190,Some college but no degree,.0048319679
+18257,22457,Oregon,40,Female,White,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",8270,High school diploma or equivalent,.0048477184
+87000,87300,New York,41,Female,White,"Married, spouse present",No service,Puerto Rican,At work,"Yes, in the labor force",7860,Master's degree,.0048556826
+190000,202270,Pennsylvania,36,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8370,Master's degree,.0048586177
+48000,48600,Arkansas,41,Male,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",3190,High school diploma or equivalent,.0048951078
+27000,28024,New Mexico,53,Female,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0049061216
+70000,77800,Michigan,47,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0049069962
+34000,34000,Texas,40,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0049230042
+7000,11952,Virginia,57,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8660,Some college but no degree,.0049291253
+51000,52701,Iowa,59,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7870,High school diploma or equivalent,.0049309479
+24000,24099,Texas,25,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",4390,Bachelor's degree,.0049538887
+53000,56025,Washington,43,Female,Hawaiian/Pacific Islander only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8270,Bachelor's degree,.0049569039
+45000,45010,Pennsylvania,47,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0049608601
+300000,399100,Virginia,47,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Professional school degree,.0049633696
+33000,33010,California,24,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5592,Some college but no degree,.0049718753
+68000,79511,Wisconsin,44,Male,White,Divorced,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.0049848375
+35000,36101,Hawaii,56,Female,Hawaiian/Pacific Islander only,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0050014076
+21000,51101,District of Columbia,24,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0050318521
+35000,37202,Wyoming,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4870,"Associate's degree, academic program",.0050475625
+30000,30000,Florida,61,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8270,"12th grade, no diploma",.0050722035
+60000,61514,Hawaii,51,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",670,Master's degree,.0050858674
+55000,55015,Idaho,30,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8990,"Associate's degree, occupational/vocational program",.005096517
+19000,19000,Florida,42,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0050968449
+24400,54553,Minnesota,40,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7680,Some college but no degree,.0051058657
+40000,40000,California,59,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7690,Bachelor's degree,.0051107225
+9700,9700,Montana,31,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,"Associate's degree, occupational/vocational program",.0051169866
+19000,19000,Maryland,28,Male,Black/Negro,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",7770,"12th grade, no diploma",.0051570777
+37000,53100,New York,39,Female,Black/Negro,Divorced,Yes,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0051582409
+850000,850020,District of Columbia,34,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7570,Bachelor's degree,.0051608076
+45000,45526,New Mexico,51,Male,White,"Married, spouse present",Yes,Mexican,At work,"Yes, in the labor force",9480,"Associate's degree, occupational/vocational program",.005174133
+4000,4000,Washington,20,Female,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Bachelor's degree,.0051831054
+60000,61202,Minnesota,32,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3980,High school diploma or equivalent,.0051871915
+60000,61000,California,40,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8090,Bachelor's degree,.0051977639
+42000,44303,Texas,31,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6990,Some college but no degree,.005207656
+60000,60000,California,51,Male,White,"Married, spouse absent",No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0052399426
+94000,94879,Minnesota,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7580,Bachelor's degree,.0052641458
+60150,67123,Maine,52,Female,White,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0052699912
+75000,75015,Georgia,44,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Doctorate degree,.0052780742
+31000,31004,Michigan,26,Female,White,Never married/single,No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",290,"Associate's degree, academic program",.0052792719
+80000,80006,Maine,57,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.0052995444
+55000,55500,Tennessee,48,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3570,Bachelor's degree,.0053071207
+55000,78567,Montana,56,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7390,Bachelor's degree,.005320786
+78000,86002,Illinois,44,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Master's degree,.005332042
+48000,48000,Missouri,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2980,High school diploma or equivalent,.0053522349
+54000,54000,District of Columbia,25,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.0053546424
+4000,31000,Massachusetts,20,Male,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.0053699305
+9960,9960,South Dakota,53,Male,American Indian/Aleut/Eskimo,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",9480,Bachelor's degree,.0053891428
+43000,48000,Virginia,54,Male,Black/Negro,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",7070,Master's degree,.0053956117
+18000,23720,Texas,21,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0054091797
+120000,120000,New Jersey,38,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.0054104924
+10000,10000,Florida,29,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5490,Bachelor's degree,.0054312614
+35000,35000,Nevada,54,Male,White,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",4070,"12th grade, no diploma",.0054408493
+46000,50869,Wisconsin,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0054692677
+145000,145001,New York,48,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0054857279
+29000,29000,California,57,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8170,Bachelor's degree,.0054886071
+102000,205800,West Virginia,49,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",9470,Bachelor's degree,.0054891626
+11000,11000,Texas,44,Female,White,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",8680,Grade 9,.0055313245
+30000,30000,Missouri,53,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1990,Some college but no degree,.0055355877
+27000,27000,Maryland,28,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7380,High school diploma or equivalent,.0055586803
+68000,68081,Maine,31,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6380,High school diploma or equivalent,.0055681281
+150000,151201,South Carolina,46,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8190,Doctorate degree,.0055718771
+50000,50000,Iowa,42,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0055792197
+60000,61001,Hawaii,64,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8660,Bachelor's degree,.0055837785
+2500,2503,New York,18,Female,White,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",8560,Grade 11,.0055962792
+90000,127900,California,43,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7580,Master's degree,.005608032
+36000,36157,Oregon,33,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0056166803
+43000,43000,California,47,Male,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",5390,Bachelor's degree,.0056436947
+50000,52250,Delaware,36,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0056532379
+87000,89700,Georgia,39,Female,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",7280,Master's degree,.0056583742
+36000,36000,Texas,58,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5190,High school diploma or equivalent,.0056653824
+54000,54342,North Carolina,29,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.0056724362
+36000,36005,Connecticut,47,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0056784512
+51040,51745,Montana,39,Female,White,Never married/single,No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",8570,Master's degree,.0057013915
+60000,66111,Idaho,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1170,Master's degree,.0057043158
+38000,38050,Iowa,42,Male,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3190,High school diploma or equivalent,.0057257293
+3000,60601,South Dakota,38,Male,White,"Married, spouse present",Yes,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",770,High school diploma or equivalent,.0057373499
+10000,10000,Pennsylvania,36,Female,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",5275,High school diploma or equivalent,.0057419008
+60000,60900,New York,49,Female,Black/Negro,"Married, spouse present",No service,Puerto Rican,At work,"Yes, in the labor force",6290,Some college but no degree,.0057620481
+65000,65002,Ohio,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8590,Bachelor's degree,.0057833111
+32000,32000,California,30,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",1090,"Associate's degree, academic program",.0058255321
+31000,63401,South Dakota,41,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0058538741
+8000,8002,Arizona,52,Male,American Indian/Aleut/Eskimo,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,"12th grade, no diploma",.0058558737
+125000,142762,Arizona,51,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.005877309
+70000,70000,California,28,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.0058880723
+60000,60000,California,36,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8590,Bachelor's degree,.0058964845
+39000,39168,California,31,Female,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",8370,Master's degree,.0059136008
+97000,107069,Michigan,38,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Doctorate degree,.0059180255
+700000,957500,California,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Professional school degree,.0059275427
+15000,20205,Utah,20,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4970,Some college but no degree,.0059767477
+30000,30055,Michigan,61,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0060104979
+40000,40000,Kansas,61,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.0060180323
+48000,53045,South Dakota,52,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0060303146
+19500,19600,Texas,48,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8380,Grades 5 or 6,.0060367398
+25000,30040,Wisconsin,60,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",5570,High school diploma or equivalent,.0060541565
+15000,15000,Washington,30,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.0060861604
+290000,315101,California,52,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7490,Bachelor's degree,.0060874219
+65000,65154,District of Columbia,26,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7390,Bachelor's degree,.0060942471
+60000,60001,South Carolina,56,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7480,Professional school degree,.0061117681
+2000,15921,Idaho,58,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Some college but no degree,.006122523
+130000,150000,Texas,36,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4380,Master's degree,.0061657592
+63000,64000,Wisconsin,36,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7380,Some college but no degree,.0061754189
+58000,64052,Ohio,31,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0061772349
+50000,50175,Minnesota,54,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7270,Some college but no degree,.0061815619
+155000,185001,Pennsylvania,58,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2570,Bachelor's degree,.0061920974
+24000,26450,Montana,29,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9470,Some college but no degree,.0062101251
+7645,9146,Montana,22,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4990,Some college but no degree,.0062157349
+62000,66225,Tennessee,59,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7270,Some college but no degree,.0062270174
+34000,35003,Nebraska,28,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9170,Bachelor's degree,.0062316475
+60000,100052,Kentucky,57,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3570,"Associate's degree, occupational/vocational program",.0062332186
+15000,15001,California,21,Female,White,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",8680,Some college but no degree,.0062363911
+115000,115022,California,45,Male,White-Asian,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.0062419833
+150000,153600,Maryland,34,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4470,Bachelor's degree,.0062590027
+64000,67500,Kentucky,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4670,High school diploma or equivalent,.0062601119
+110000,110801,Wisconsin,50,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",470,Some college but no degree,.0062626698
+70000,71960,Virginia,41,Male,Asian only,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",8790,"Associate's degree, occupational/vocational program",.0063031744
+15600,17982,Rhode Island,18,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7580,Some college but no degree,.0063101915
+70000,70450,North Dakota,49,Female,White,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",7070,Bachelor's degree,.0063172313
+25000,27025,Missouri,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,"Associate's degree, academic program",.0063228155
+57000,57300,Oklahoma,28,Male,White,"Married, spouse present",Yes,Mexican,At work,"Yes, in the labor force",6170,Some college but no degree,.006334105
+35000,35000,Illinois,25,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9170,Bachelor's degree,.0063352818
+42500,42530,Ohio,20,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",570,High school diploma or equivalent,.0063527632
+41000,41000,South Carolina,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6890,Some college but no degree,.0063746246
+74500,74500,New Jersey,56,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Master's degree,.0064102951
+35000,35300,Illinois,30,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3990,Bachelor's degree,.0064197439
+15000,15000,New Mexico,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0064219376
+21000,21000,Florida,19,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0064257677
+25000,26740,District of Columbia,65,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, retired","No, not in the labor force",0,Master's degree,.0064358111
+55000,56605,Delaware,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3490,High school diploma or equivalent,.0064402404
+80244,84303,New York,54,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8270,Bachelor's degree,.0064660097
+138000,143000,Florida,49,Male,White,Divorced,Yes,Not Hispanic,At work,"Yes, in the labor force",7280,Bachelor's degree,.0064726686
+54000,61020,California,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8590,Bachelor's degree,.0064910576
+8000,60021,Kentucky,58,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7580,Master's degree,.0064954264
+49447,49451,California,39,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7390,Doctorate degree,.0064970567
+40000,41429,Tennessee,33,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0065124091
+100000,101002,Utah,39,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7970,Professional school degree,.0065168897
+59000,83052,Florida,37,Female,White,"Married, spouse present",No service,Cuban,At work,"Yes, in the labor force",7860,Professional school degree,.0065205642
+130000,131425,South Carolina,53,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4795,High school diploma or equivalent,.0065234317
+50000,50165,New York,27,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",9480,High school diploma or equivalent,.0065240986
+72000,72610,Louisiana,47,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7460,High school diploma or equivalent,.0065419669
+60000,60000,Utah,49,Male,White,Never married/single,No service,Mexican,"NILF, other","No, not in the labor force",0,High school diploma or equivalent,.0065519591
+40000,46000,Nevada,48,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",5070,Grade 11,.0065669133
+9000,13201,Massachusetts,24,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0065827779
+35000,35020,New Hampshire,61,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4870,High school diploma or equivalent,.006598792
+80000,80020,Louisiana,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7280,High school diploma or equivalent,.0066059972
+26000,26000,Maryland,30,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8470,High school diploma or equivalent,.0066241245
+49000,49800,Michigan,34,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0066284533
+200000,293400,District of Columbia,49,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Bachelor's degree,.0066374587
+50000,50250,North Dakota,42,Female,White,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.0066530616
+13000,13000,Tennessee,39,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,High school diploma or equivalent,.0066530756
+80000,95003,New Jersey,56,Male,White,Never married/single,No service,Puerto Rican,At work,"Yes, in the labor force",6990,Master's degree,.0066545387
+45000,45000,Alabama,31,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",490,Some college but no degree,.0066607683
+34100,34300,California,27,Female,White,Divorced,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",8470,Bachelor's degree,.0066629616
+200000,206010,Pennsylvania,42,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4470,Bachelor's degree,.0066752383
+30000,30005,Massachusetts,25,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9090,"Associate's degree, occupational/vocational program",.0067109391
+600,605,Vermont,56,Female,White,Widowed,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,High school diploma or equivalent,.0067312461
+35000,35001,Hawaii,31,Male,White-Asian,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0067379964
+30000,30000,North Dakota,32,Female,Black/Negro,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.0067578359
+50000,50000,Missouri,36,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Some college but no degree,.0067630559
+27002,27002,Texas,37,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.006764425
+45000,45000,Florida,27,Female,White,"Married, spouse present",No service,Puerto Rican,At work,"Yes, in the labor force",770,"Associate's degree, academic program",.0067698755
+44000,44300,Michigan,60,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8170,Bachelor's degree,.0067700329
+8000,8000,Wyoming,22,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0067763897
+88000,88050,Maryland,30,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6690,Bachelor's degree,.0067777461
+23000,23022,Iowa,31,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,High school diploma or equivalent,.0067796749
+15000,17000,Georgia,24,Female,White-Black,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6390,Some college but no degree,.0067856377
+35000,35000,North Carolina,27,Male,White,"Married, spouse present",NIU,Puerto Rican,Armed Forces,NIU,0,"Associate's degree, occupational/vocational program",.0068226908
+72000,72050,New Hampshire,64,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9480,"Associate's degree, occupational/vocational program",.0068296781
+140000,153061,Ohio,51,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.0068320059
+140000,240749,New York,56,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Master's degree,.00684168
+67000,67928,Pennsylvania,32,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",9470,High school diploma or equivalent,.006852733
+52000,61062,Alaska,41,Male,White,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",6380,Some college but no degree,.00691554
+33000,46520,Kansas,65,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6170,High school diploma or equivalent,.0069179949
+15000,15000,Washington,38,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0069297436
+25000,25000,Wisconsin,48,Female,White,Divorced,No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",4970,High school diploma or equivalent,.0069339275
+25000,25000,Montana,20,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",4970,High school diploma or equivalent,.0069436715
+20000,20000,Louisiana,26,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0069567673
+33000,33001,Utah,39,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.0069647762
+3600,16177,Montana,63,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7690,Some college but no degree,.0069729006
+100000,104562,Virginia,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Master's degree,.0069883601
+48110,48110,Nevada,28,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7970,High school diploma or equivalent,.0069916053
+33000,33111,Arizona,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.0070031844
+40000,40030,California,28,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",5470,Some college but no degree,.0070492667
+200000,200005,Hawaii,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Master's degree,.0070735202
+86000,86001,California,53,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9370,High school diploma or equivalent,.0070754909
+60000,60101,Hawaii,51,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,"Associate's degree, occupational/vocational program",.0070848493
+23000,23000,Illinois,27,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8190,Some college but no degree,.0071034967
+40000,55001,Texas,54,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.0071121743
+35000,35000,California,33,Female,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",1190,"Associate's degree, occupational/vocational program",.0071133543
+37000,37015,Mississippi,35,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7980,Bachelor's degree,.0071200593
+20000,21050,Louisiana,35,Female,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",770,Grade 10,.0071369051
+11000,11000,Montana,34,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,High school diploma or equivalent,.0071420069
+8000,8000,Arizona,38,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7380,"Associate's degree, occupational/vocational program",.0071506463
+140000,140100,Texas,40,Male,Black/Negro,Divorced,Yes,Not Hispanic,At work,"Yes, in the labor force",7070,"Associate's degree, occupational/vocational program",.0071658366
+130000,193094,Idaho,60,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.007167784
+8320,17920,Arizona,62,Female,American Indian/Aleut/Eskimo,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,"12th grade, no diploma",.0072001982
+52000,52000,Hawaii,51,Male,White-Hawaiian/Pacific Islander,Divorced,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.007207863
+100000,103150,Tennessee,60,Male,Black/Negro,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",6380,"Associate's degree, academic program",.0072608911
+79000,79000,Nevada,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,"Associate's degree, occupational/vocational program",.0072679352
+140000,142010,Colorado,36,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4870,Bachelor's degree,.0072767814
+52000,52000,District of Columbia,30,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.0073630521
+34500,34500,Montana,27,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",180,High school diploma or equivalent,.0073716785
+80000,80552,Oklahoma,55,Male,American Indian/Aleut/Eskimo,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",2290,High school diploma or equivalent,.0073988368
+26000,26000,California,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6390,High school diploma or equivalent,.0074024438
+12000,12000,Washington,45,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",7770,Grades 5 or 6,.007415554
+120000,120005,New York,40,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5490,Master's degree,.0074180569
+45000,45000,Mississippi,45,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2380,"Associate's degree, occupational/vocational program",.0074209999
+37000,50535,Illinois,28,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9380,Bachelor's degree,.0074240742
+58002,58002,Oklahoma,59,Female,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0074316077
+19000,19002,Montana,64,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0074436422
+46000,39201,Utah,23,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4195,Some college but no degree,.007480239
+180000,192760,Kansas,46,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2190,Doctorate degree,.0074904165
+25000,25300,Louisiana,25,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5380,Some college but no degree,.007492837
+23389,28389,Hawaii,27,Female,White-Asian,Never married/single,No service,Puerto Rican,At work,"Yes, in the labor force",8680,Some college but no degree,.0075122905
+180000,180150,Illinois,64,Male,White,"Married, spouse present",No service,Not Hispanic,"NILF, retired","No, not in the labor force",0,Bachelor's degree,.0075153289
+38000,38001,California,41,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",170,None or preschool,.0075199506
+50000,50001,North Carolina,49,Male,White,Separated,Yes,Not Hispanic,At work,"Yes, in the labor force",9490,"Associate's degree, occupational/vocational program",.0075231823
+90000,90001,Arizona,42,Female,White,"Married, spouse absent",No service,Mexican,At work,"Yes, in the labor force",7470,Some college but no degree,.0075248685
+10000,10000,Georgia,27,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",7770,Bachelor's degree,.0075294827
+11000,11052,New Hampshire,63,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8660,Bachelor's degree,.00753171
+24000,24200,South Carolina,50,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1890,High school diploma or equivalent,.0075352257
+198000,198058,Michigan,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2170,Bachelor's degree,.0075577116
+68000,71051,South Dakota,34,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,Some college but no degree,.0075712721
+75000,75613,Nevada,38,Female,White-Black,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.0075768661
+37000,37000,Indiana,37,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3490,"Associate's degree, academic program",.0075788642
+10000,10000,New Mexico,63,Female,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grades 7 or 8,.0075808293
+97500,98130,District of Columbia,51,Female,White-Asian,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9170,Bachelor's degree,.0075833844
+27000,27001,Utah,36,Male,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",3570,High school diploma or equivalent,.007588319
+65000,65803,New York,39,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7080,Bachelor's degree,.0076111145
+15000,15000,West Virginia,22,Male,Black/Negro,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",5380,High school diploma or equivalent,.0076305759
+38200,38200,New Jersey,46,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8270,High school diploma or equivalent,.0076349415
+50000,50401,Virginia,58,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6290,High school diploma or equivalent,.0076373611
+50000,50020,Florida,28,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,Bachelor's degree,.0076420335
+20000,20000,Hawaii,21,Female,Hawaiian/Pacific Islander only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0076566073
+19000,19000,New Mexico,39,Female,White,Never married/single,No service,Other Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0076596071
+120000,121750,California,41,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Master's degree,.007665338
+75000,97800,Alabama,57,Male,Black/Negro,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",9590,Bachelor's degree,.0076696831
+65000,65000,New York,48,Male,Black/Negro,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",9170,Master's degree,.0076774792
+31200,31370,New York,52,Female,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8270,High school diploma or equivalent,.007679332
+13000,13000,Michigan,21,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5170,Some college but no degree,.0076899822
+100000,100150,New Hampshire,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7280,Master's degree,.0076914649
+113000,131010,New York,60,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5070,Doctorate degree,.0076926197
+24000,24125,Louisiana,40,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Some college but no degree,.0077098487
+26000,26002,Massachusetts,64,Male,Asian only,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",4870,Bachelor's degree,.007728511
+110000,140324,South Carolina,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3570,Bachelor's degree,.0077705802
+60000,60000,New York,41,Male,Asian only,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Bachelor's degree,.0077725057
+64760,64760,Vermont,39,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3570,High school diploma or equivalent,.0077905683
+60000,60300,Illinois,30,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9470,Some college but no degree,.0078008939
+100000,100507,Massachusetts,41,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0078495685
+87820,90337,Tennessee,42,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.0078769159
+40000,40901,Pennsylvania,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.0078814477
+28000,28000,California,29,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7860,Bachelor's degree,.0078970604
+60000,60050,Kansas,42,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1180,Bachelor's degree,.0079089999
+56000,56000,Iowa,21,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0079118628
+2000,31400,North Carolina,65,Male,Black/Negro,Separated,No service,Not Hispanic,"NILF, retired","No, not in the labor force",0,High school diploma or equivalent,.0079509774
+14000,14000,Hawaii,18,Male,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5070,"12th grade, no diploma",.0079972884
+50000,50001,Texas,61,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7680,Grade 10,.0080133704
+56000,56011,Virginia,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Master's degree,.0080270674
+38000,58067,Texas,58,Female,White,Divorced,No service,Mexican,At work,"Yes, in the labor force",8470,Bachelor's degree,.0080676852
+32000,52001,California,60,Female,Asian only,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grades 5 or 6,.0080715064
+7000,7000,Texas,25,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8680,Grade 9,.0080719804
+48000,48000,Georgia,28,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7770,High school diploma or equivalent,.0080857594
+40000,40000,Illinois,63,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9480,Master's degree,.008091473
+52000,71284,Delaware,65,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0081060622
+100000,126550,Virginia,64,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7770,High school diploma or equivalent,.00812562
+4000,13252,Nebraska,31,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8390,High school diploma or equivalent,.008133187
+50000,50230,District of Columbia,25,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.008135587
+107000,109700,New York,64,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9380,Bachelor's degree,.0081430636
+55000,55120,Texas,38,Female,Black/Negro,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",490,Some college but no degree,.0081880223
+78000,78002,California,43,Male,White,"Married, spouse present",Yes,Mexican,At work,"Yes, in the labor force",9470,Master's degree,.0082178563
+13000,13000,District of Columbia,35,Male,White,"Married, spouse present",No service,Salvadoran,At work,"Yes, in the labor force",770,"12th grade, no diploma",.008220559
+6000,83603,Texas,58,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5380,Master's degree,.008221332
+330000,338150,Texas,53,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2070,Some college but no degree,.0082295211
+166000,166800,Texas,53,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4880,"Associate's degree, occupational/vocational program",.0082300538
+80000,80000,Georgia,56,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0082337782
+40600,42011,Texas,45,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",3370,High school diploma or equivalent,.0082431575
+16000,16110,Georgia,63,Female,White,Never married/single,No service,South American,At work,"Yes, in the labor force",2370,Master's degree,.0082458276
+18000,18000,Nevada,42,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8590,Some college but no degree,.0082633812
+50000,50000,California,43,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7470,"Associate's degree, academic program",.0082675228
+50000,50104,Iowa,40,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",3580,Bachelor's degree,.008295388
+35000,37400,Texas,26,Male,White-Asian,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",770,Bachelor's degree,.0083038323
+54000,69450,Kansas,47,Male,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",9370,Bachelor's degree,.0083059762
+75000,76002,New Mexico,44,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",7770,Grades 7 or 8,.0083486158
+105000,105000,Florida,43,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",7860,"Associate's degree, occupational/vocational program",.0083788121
+18000,18000,Tennessee,30,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",7770,High school diploma or equivalent,.008392253
+19154,19170,Nevada,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6890,High school diploma or equivalent,.008414953
+40000,40000,California,28,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",6570,Bachelor's degree,.0084770173
+115000,120015,Wyoming,39,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",380,High school diploma or equivalent,.0084781712
+23000,23000,South Carolina,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3170,High school diploma or equivalent,.008480805
+22000,22000,North Carolina,51,Female,White,Divorced,No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",3895,"Associate's degree, academic program",.0084901275
+43000,43000,Mississippi,40,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8290,Master's degree,.0085052429
+36000,36000,Florida,42,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7270,Bachelor's degree,.00850657
+32000,32140,Arizona,56,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7270,Bachelor's degree,.0085179731
+32000,32000,Iowa,37,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7580,High school diploma or equivalent,.0085289422
+15600,60857,New Hampshire,65,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Some college but no degree,.0085434187
+80000,83250,Tennessee,53,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,Bachelor's degree,.0085618719
+5000,23000,Kansas,19,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0085662287
+150000,158000,California,35,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Professional school degree,.0085669346
+30000,30000,Texas,36,Male,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7070,Some college but no degree,.008568
+70000,100002,Oklahoma,36,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0085797049
+42000,42200,Missouri,27,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.0085896458
+90000,90002,California,35,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",7870,Doctorate degree,.0086090658
+25000,25125,California,65,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6190,Bachelor's degree,.0086502014
+30000,30100,Alabama,63,Female,White,Widowed,No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0086841891
+80000,80020,Maryland,38,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0086857788
+11000,11000,California,23,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0086923596
+50000,50175,District of Columbia,34,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7390,Master's degree,.0086998902
+5000,5000,Iowa,23,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8470,High school diploma or equivalent,.0087027224
+14000,14002,Florida,21,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4770,Some college but no degree,.0087121064
+150000,154610,Utah,36,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Doctorate degree,.0087337205
+63400,64402,Kansas,43,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.008744969
+30000,32066,Pennsylvania,36,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.008754096
+4620,4633,New York,49,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Bachelor's degree,.0087547302
+70000,71420,New Jersey,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7290,Bachelor's degree,.0087565063
+24000,54002,California,24,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.0087621184
+140000,166592,Nebraska,44,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Master's degree,.0087623782
+32000,33260,Kentucky,28,Male,White,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0087920697
+60000,60201,New York,27,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7390,Bachelor's degree,.0088230213
+68700,69001,Arkansas,60,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,High school diploma or equivalent,.0088301152
+7000,7000,Texas,39,Female,Black/Negro,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8680,Some college but no degree,.0088389935
+55000,55000,Wyoming,36,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0088734329
+87000,102603,Wisconsin,63,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",3095,Some college but no degree,.0088785812
+44000,44007,Nebraska,63,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6695,Bachelor's degree,.0088812206
+48000,48000,Delaware,26,Male,White,Never married/single,No service,Puerto Rican,At work,"Yes, in the labor force",8270,Some college but no degree,.0089092245
+24500,27557,Pennsylvania,24,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8270,Some college but no degree,.0089253215
+60000,61001,North Dakota,37,Male,White,"Married, spouse present",NIU,Not Hispanic,Armed Forces,NIU,0,"Associate's degree, academic program",.0089303749
+56000,56200,Vermont,31,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4970,Bachelor's degree,.0089351423
+77002,79402,Virginia,40,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7670,"Associate's degree, academic program",.0089549609
+38000,38500,Colorado,62,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6670,Bachelor's degree,.0089588519
+70000,70400,Nevada,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8560,Master's degree,.0089714304
+120000,122273,Florida,59,Male,White,"Married, spouse present",No service,Not Hispanic,"NILF, retired","No, not in the labor force",0,"Associate's degree, academic program",.0089765545
+190000,215100,North Dakota,48,Male,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",7870,Master's degree,.0089854011
+30000,40300,Massachusetts,22,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8560,Bachelor's degree,.0089890379
+25000,25000,Hawaii,28,Female,Asian only,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",7070,"Associate's degree, academic program",.0090046469
+30000,30007,Missouri,60,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7460,Bachelor's degree,.0090150042
+26000,26000,Mississippi,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4670,Grade 11,.0090528289
+28000,36424,Texas,28,Female,White-American Indian,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0090569612
+120000,120120,California,32,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Master's degree,.0090640849
+19500,19500,Virginia,47,Female,White,"Married, spouse present",No service,Salvadoran,At work,"Yes, in the labor force",8660,High school diploma or equivalent,.009090676
+16000,16000,Tennessee,21,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0090967445
+37000,38001,Illinois,26,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.0091089914
+42000,46031,Kansas,35,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7680,Bachelor's degree,.0091280658
+25000,25000,Indiana,35,Male,White,"Married, spouse present",No service,Puerto Rican,At work,"Yes, in the labor force",3680,High school diploma or equivalent,.0091388589
+40000,41001,Pennsylvania,33,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6880,Some college but no degree,.0091397781
+37000,37000,South Carolina,49,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Master's degree,.0091699818
+75000,75031,West Virginia,31,Male,Asian only,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.0091705043
+26000,26001,Florida,26,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8560,Bachelor's degree,.0091732042
+44000,47375,Kansas,51,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0091894884
+84400,85038,Montana,64,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6670,Bachelor's degree,.0092019616
+42000,42000,South Carolina,60,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3190,Grade 11,.0092217112
+50000,50000,Nevada,34,Female,White,Never married/single,No service,Other Hispanic,At work,"Yes, in the labor force",6690,Bachelor's degree,.0092356028
+78000,78000,Minnesota,49,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",6380,High school diploma or equivalent,.0092594456
+20000,20000,Ohio,20,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0092651835
+50500,52420,Minnesota,47,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.009270126
+23000,23376,Michigan,36,Female,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",7970,"Associate's degree, occupational/vocational program",.0092837159
+70000,70000,Pennsylvania,42,Male,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.0093119703
+90000,90310,Pennsylvania,45,Male,White,"Married, spouse present",No service,Salvadoran,At work,"Yes, in the labor force",3190,High school diploma or equivalent,.0093467645
+22000,22165,Montana,64,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8370,Some college but no degree,.0093665551
+15000,15000,Michigan,58,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,"NILF, unable to work","No, not in the labor force",0,High school diploma or equivalent,.009390994
+32000,32001,Pennsylvania,52,Male,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",770,Grades 5 or 6,.00940751
+42000,42251,Wyoming,28,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0094391126
+88000,88194,Delaware,60,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9370,Bachelor's degree,.0094465297
+30000,30000,California,26,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",6990,Some college but no degree,.0094536962
+54000,54000,Oklahoma,54,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2490,High school diploma or equivalent,.0094577139
+65000,65000,Louisiana,21,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8660,Grade 10,.009473999
+50000,50000,Washington,41,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",4195,Some college but no degree,.009489757
+22000,22000,Missouri,23,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",3490,Bachelor's degree,.0094980737
+140000,140003,Michigan,62,Male,White,"Married, spouse present",No service,Not Hispanic,"NILF, retired","No, not in the labor force",0,High school diploma or equivalent,.0095093958
+30000,30000,Illinois,41,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9160,Some college but no degree,.0095133586
+130000,139142,Maine,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4170,Bachelor's degree,.0095152482
+24000,24000,Ohio,25,Male,White,Never married/single,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",7690,High school diploma or equivalent,.009519266
+90000,90250,North Carolina,39,Male,White-Black,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3570,High school diploma or equivalent,.0095287533
+55000,55000,Mississippi,39,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6680,Bachelor's degree,.0095305024
+65000,89301,Missouri,60,Male,White,"Married, spouse absent",Yes,Not Hispanic,At work,"Yes, in the labor force",3490,Bachelor's degree,.0095336214
+63344,63344,Georgia,42,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6390,High school diploma or equivalent,.009538685
+47000,47600,California,55,Female,White,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",6890,Some college but no degree,.009560002
+12000,13050,New Mexico,53,Male,White,"Married, spouse present",No service,Mexican,"Unemployed, experienced worker","Yes, in the labor force",770,Grade 9,.0095696906
+42000,43470,California,29,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8190,"Associate's degree, occupational/vocational program",.0095879259
+23000,23041,California,60,Male,White,"Married, spouse present",No service,Mexican,"Unemployed, experienced worker","Yes, in the labor force",290,Grade 10,.009589429
+9000,9000,Texas,35,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0095965192
+40000,40000,District of Columbia,40,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,High school diploma or equivalent,.0095979609
+53000,53502,North Dakota,32,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4270,"Associate's degree, occupational/vocational program",.0095992638
+40000,40000,California,46,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,"12th grade, no diploma",.009603939
+55000,80020,Oregon,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.0096149463
+19000,19000,Oregon,22,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7980,"Associate's degree, occupational/vocational program",.0096481917
+55000,58950,California,53,Female,Asian only,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.0096488288
+20000,23567,Oregon,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5070,Bachelor's degree,.0096726334
+13000,14300,Georgia,18,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6570,High school diploma or equivalent,.0096773356
+75000,75005,Ohio,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.0097025111
+85000,87003,California,63,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.0097227525
+23000,23000,Alabama,55,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3895,High school diploma or equivalent,.0097333966
+68000,68636,Oregon,50,Female,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.0097525381
+28000,28000,New Mexico,29,Female,American Indian/Aleut/Eskimo,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",8660,High school diploma or equivalent,.0098030521
+30000,30000,Tennessee,27,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",2270,Some college but no degree,.0098465225
+65000,65214,Vermont,31,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",1280,Bachelor's degree,.0098481709
+30000,30004,Rhode Island,29,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5470,Bachelor's degree,.0098548308
+18000,18000,California,21,Female,Hawaiian/Pacific Islander only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5380,High school diploma or equivalent,.0098562557
+60000,60002,Texas,35,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7370,Master's degree,.0098690409
+171123,175678,Maryland,52,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Professional school degree,.009904515
+88000,88121,Georgia,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.0099177212
+3584,7863,Utah,19,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,Some college but no degree,.0099185854
+38000,38502,South Dakota,28,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8660,Bachelor's degree,.0099516148
+102000,102015,Georgia,36,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7480,Professional school degree,.0099680377
+40000,40100,Texas,34,Male,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",7070,High school diploma or equivalent,.009991535
+58000,62002,Idaho,44,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",1170,Some college but no degree,.009993013
+130000,160521,Nebraska,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9590,Bachelor's degree,.010019025
+10000,10001,Vermont,24,Female,Asian only,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Master's degree,.0100263
+35000,35000,New York,49,Female,White,Never married/single,No service,Dominican,At work,"Yes, in the labor force",8470,High school diploma or equivalent,.010042648
+36400,40400,Kansas,31,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.010048422
+35000,35065,Missouri,55,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,"12th grade, no diploma",.010049989
+20000,20170,Wyoming,26,Female,American Indian/Aleut/Eskimo,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8290,High school diploma or equivalent,.010060028
+14000,14146,New York,22,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7790,Bachelor's degree,.010062592
+30000,37900,Tennessee,57,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",5080,High school diploma or equivalent,.010076799
+64000,170000,Colorado,59,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8770,"Associate's degree, academic program",.010119135
+380000,447003,Illinois,54,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4170,Bachelor's degree,.010124481
+4500,4510,Pennsylvania,20,Female,Asian only,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.010175908
+20000,20000,Florida,23,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5380,High school diploma or equivalent,.010192279
+84000,94005,New Jersey,46,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2190,Some college but no degree,.010205502
+80000,85430,California,43,Male,White-American Indian,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",770,High school diploma or equivalent,.010205819
+50000,50000,West Virginia,25,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,"Associate's degree, occupational/vocational program",.010226076
+140000,144300,Georgia,47,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Doctorate degree,.01022919
+64000,64001,New Jersey,29,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3960,Bachelor's degree,.010232329
+25000,25000,Texas,20,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",5480,High school diploma or equivalent,.010262749
+66000,66004,Illinois,28,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7470,Bachelor's degree,.010263624
+32000,32000,California,36,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.01027419
+80000,80180,Iowa,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6170,"Associate's degree, occupational/vocational program",.010287614
+1500,1500,Kansas,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6470,High school diploma or equivalent,.010290352
+75000,90425,New Mexico,56,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Master's degree,.010301358
+5000,61720,Minnesota,62,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3895,"Associate's degree, occupational/vocational program",.010326628
+30000,30001,California,51,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4670,High school diploma or equivalent,.010331919
+8973,8973,Louisiana,29,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9370,Grades 7 or 8,.010334472
+88300,113255,Rhode Island,57,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7460,Some college but no degree,.010340759
+93600,94737,Montana,56,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",170,Some college but no degree,.01036863
+63000,65533,Utah,42,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2370,Some college but no degree,.010391985
+45000,45400,Connecticut,52,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4770,High school diploma or equivalent,.010405621
+78300,78300,Ohio,49,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7390,High school diploma or equivalent,.010407322
+35000,35052,Iowa,56,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,High school diploma or equivalent,.010413608
+80000,80020,Alaska,36,Male,White,"Married, spouse present",NIU,Mexican,Armed Forces,NIU,0,High school diploma or equivalent,.010424006
+30000,33000,Florida,34,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,"Associate's degree, academic program",.010444096
+80002,80002,Arkansas,40,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Bachelor's degree,.010451172
+15080,23080,New Mexico,31,Male,White,"Married, spouse present",Yes,Mexican,"Unemployed, experienced worker","Yes, in the labor force",5090,Some college but no degree,.010480024
+7500,7500,Washington,60,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8390,High school diploma or equivalent,.010489687
+6000,6000,Alabama,18,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4870,High school diploma or equivalent,.010506744
+48000,248000,Missouri,55,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9370,Some college but no degree,.010515154
+36000,43502,Nevada,45,Female,American Indian/Aleut/Eskimo,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",9370,"Associate's degree, academic program",.010546518
+62000,62300,California,41,Female,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",9470,Some college but no degree,.010557655
+55000,90002,New Mexico,50,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,Grades 5 or 6,.010559393
+2000,2000,Ohio,19,Female,White,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grade 10,.010588926
+42000,42618,Texas,60,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,Bachelor's degree,.010595243
+15000,15000,Arizona,36,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",570,Bachelor's degree,.01060818
+40000,346032,Oregon,65,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",5380,High school diploma or equivalent,.010613561
+55000,58000,Alabama,33,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8570,Some college but no degree,.010620471
+48000,48002,New York,50,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Bachelor's degree,.010637063
+100000,100006,Virginia,35,Male,White,"Married, spouse present",NIU,Not Hispanic,Armed Forces,NIU,0,Master's degree,.010641063
+17000,27527,South Carolina,62,Male,White,Separated,Yes,Not Hispanic,At work,"Yes, in the labor force",4390,"Associate's degree, occupational/vocational program",.010653355
+160000,177151,Texas,55,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3580,Bachelor's degree,.010657184
+500000,530214,California,45,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Bachelor's degree,.010667888
+64000,64002,Nebraska,38,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",1180,High school diploma or equivalent,.010679848
+20000,25000,Massachusetts,29,Female,White,Never married/single,No service,South American,At work,"Yes, in the labor force",8680,Bachelor's degree,.01068875
+86000,89200,Oregon,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Master's degree,.010716344
+8000,8000,Nebraska,20,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8880,Some college but no degree,.010734343
+10000,10000,California,37,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",2170,High school diploma or equivalent,.010737244
+2000,2000,Florida,24,Male,White,"Married, spouse present",No service,Cuban,At work,"Yes, in the labor force",5380,"Associate's degree, academic program",.010738985
+87000,87001,Florida,42,Male,White,"Married, spouse present",No service,Cuban,At work,"Yes, in the labor force",7380,Bachelor's degree,.010753314
+16000,16000,Nevada,24,Male,White,Never married/single,No service,Other Hispanic,At work,"Yes, in the labor force",5380,"12th grade, no diploma",.010766058
+28000,28000,Tennessee,21,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,Grades 5 or 6,.010796867
+40000,40000,Wisconsin,21,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.010805542
+150000,182661,New Jersey,40,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9470,Doctorate degree,.010825833
+65000,65200,Oklahoma,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1870,High school diploma or equivalent,.010911143
+60000,79000,Minnesota,52,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7490,Master's degree,.010922003
+79000,79001,Hawaii,59,Female,Hawaiian/Pacific Islander only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,Bachelor's degree,.010942763
+1001,1001,Nevada,18,Male,White-American Indian,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,"12th grade, no diploma",.010961784
+76000,128004,Indiana,61,Male,Black/Negro,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.010981288
+13700,13700,North Carolina,28,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8680,"Associate's degree, occupational/vocational program",.010983778
+45000,45000,California,43,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.010990808
+12000,12000,South Dakota,53,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",9290,Grade 9,.010993408
+30000,30000,California,36,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6390,Some college but no degree,.010994228
+55000,58008,Indiana,64,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6970,"Associate's degree, academic program",.011017093
+5700,5700,Louisiana,20,Male,White,Never married/single,No service,"Central American, (excluding Salvadoran)","NILF, other","No, not in the labor force",0,Some college but no degree,.011025253
+70000,70000,Montana,35,Male,White,"Married, spouse present",NIU,Not Hispanic,Armed Forces,NIU,0,Some college but no degree,.011075123
+19642,22345,Vermont,47,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9080,High school diploma or equivalent,.011097932
+15000,15000,California,50,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,Grade 9,.011098732
+35000,35000,Rhode Island,52,Male,White,Divorced,No service,Other Hispanic,At work,"Yes, in the labor force",8680,Grades 7 or 8,.011103699
+49000,49000,Illinois,48,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",8290,Bachelor's degree,.011131569
+6000,6000,South Dakota,46,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Some college but no degree,.011140944
+52000,52000,New York,58,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,"Associate's degree, academic program",.011142622
+11517,11517,California,32,Female,White,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",5380,Some college but no degree,.011149178
+62000,62000,Washington,55,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.011161769
+13000,13001,Pennsylvania,64,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8290,"Associate's degree, academic program",.011163256
+148000,151001,Arizona,40,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",8680,Master's degree,.011175032
+8000,14000,Delaware,23,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8980,Some college but no degree,.011187641
+32000,33067,Arkansas,43,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8090,"Associate's degree, academic program",.011210287
+1002,11002,Florida,20,Female,White-Black,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8590,Some college but no degree,.011226465
+10000,26700,California,56,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,"Associate's degree, academic program",.011245321
+50000,55901,Connecticut,25,Female,Black/Negro,Never married/single,No service,Puerto Rican,At work,"Yes, in the labor force",8190,Some college but no degree,.011271128
+54000,54000,Michigan,33,Male,White,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",4670,"Associate's degree, occupational/vocational program",.01128508
+30000,37000,New York,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.011307758
+29000,29000,New York,39,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",6290,"Associate's degree, academic program",.011313954
+15000,15000,North Dakota,32,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7690,Grade 9,.011314284
+52000,52010,Tennessee,40,Female,White-Black,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8180,"Associate's degree, academic program",.011323574
+24000,24005,Minnesota,19,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",3895,High school diploma or equivalent,.011326058
+40000,40000,California,27,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3580,High school diploma or equivalent,.011384398
+3800,3800,Kentucky,57,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5380,High school diploma or equivalent,.011392394
+11000,11000,New York,31,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8370,High school diploma or equivalent,.011400743
+30000,30000,Florida,40,Female,White,Separated,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",3990,High school diploma or equivalent,.011421869
+31200,31200,South Carolina,41,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7280,"Associate's degree, occupational/vocational program",.011435013
+20000,20003,California,40,Female,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",7860,Some college but no degree,.011465355
+19200,19202,Arizona,56,Female,White,Never married/single,No service,Mexican,"Has job, not at work last week","Yes, in the labor force",3580,"Associate's degree, academic program",.011499403
+6000,6000,Illinois,26,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4990,Some college but no degree,.011520599
+80000,80010,Michigan,39,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",3570,Master's degree,.01154792
+50000,50884,Maryland,47,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8270,High school diploma or equivalent,.011588634
+35000,35150,Mississippi,53,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",3570,High school diploma or equivalent,.011615116
+60000,60000,New Mexico,48,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7280,"Associate's degree, academic program",.011616724
+81000,81001,New York,58,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6670,Some college but no degree,.01164175
+26000,26001,Arizona,49,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8370,Some college but no degree,.011651861
+16000,16000,California,44,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",6390,Bachelor's degree,.011657742
+40000,40000,North Carolina,25,Male,White,Never married/single,No service,Dominican,At work,"Yes, in the labor force",4670,Some college but no degree,.01167525
+50000,53603,Wisconsin,38,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.011675544
+52000,52002,Colorado,29,Female,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",7860,Master's degree,.011701345
+39000,39000,South Carolina,20,Male,White,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",770,Grade 10,.011720771
+78000,78000,Wisconsin,47,Male,White,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",4580,High school diploma or equivalent,.011727896
+39000,39025,Vermont,31,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8180,Bachelor's degree,.011743388
+420000,420120,Utah,48,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5070,Bachelor's degree,.011747037
+8360,8360,Montana,54,Male,White,Divorced,Yes,Not Hispanic,"NILF, unable to work","No, not in the labor force",0,"Associate's degree, academic program",.01175771
+46000,46001,New York,45,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,High school diploma or equivalent,.011759585
+60000,61380,Oregon,33,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.011785812
+12800,12800,New Mexico,22,Female,Black/Negro,Never married/single,No service,Mexican,At work,"Yes, in the labor force",9290,High school diploma or equivalent,.011797736
+45000,45000,Arkansas,37,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6170,Grades 7 or 8,.011813041
+105000,115085,Florida,53,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",4580,Some college but no degree,.01183515
+16000,16000,California,29,Male,White,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",770,High school diploma or equivalent,.011865473
+35000,35071,Arizona,63,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8370,Master's degree,.01187402
+36000,36000,California,28,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,Bachelor's degree,.011876037
+40000,40005,Florida,24,Female,White,Never married/single,No service,Salvadoran,At work,"Yes, in the labor force",770,High school diploma or equivalent,.011886633
+12500,12500,Ohio,23,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7870,Bachelor's degree,.01191282
+48000,54550,Massachusetts,39,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8270,Bachelor's degree,.011919195
+40000,40500,Mississippi,43,Female,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3190,High school diploma or equivalent,.011927215
+103000,105165,Hawaii,33,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.011949897
+65000,65001,Vermont,54,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4970,"Associate's degree, occupational/vocational program",.011955187
+59000,113929,California,34,Male,White,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Master's degree,.011989007
+27000,27000,Kansas,29,Male,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6380,Grade 10,.012002578
+40000,40801,California,52,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8470,Bachelor's degree,.012023532
+26000,26000,North Dakota,29,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8190,Grades 7 or 8,.012036787
+28000,28000,South Carolina,37,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8270,Some college but no degree,.012048941
+35000,38000,Mississippi,41,Male,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",2990,"Associate's degree, academic program",.01205967
+45000,45000,New Hampshire,40,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5090,High school diploma or equivalent,.012062388
+79772,79773,Washington,44,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7380,Some college but no degree,.012071776
+10000,18000,Texas,21,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",4795,Some college but no degree,.012089076
+25000,26001,Florida,63,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.012103328
+40000,42200,North Dakota,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8370,Bachelor's degree,.012135693
+60000,60000,California,24,Male,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9370,Bachelor's degree,.012141022
+38000,38001,Illinois,58,Male,White,"Married, spouse present",No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",2980,"Associate's degree, occupational/vocational program",.012142804
+20000,20000,Oregon,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7490,"Associate's degree, occupational/vocational program",.012153727
+150000,150000,Oklahoma,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",570,Master's degree,.012169389
+36000,38100,Washington,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,Some college but no degree,.012192432
+120000,128300,Georgia,59,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7380,Bachelor's degree,.012202217
+76800,76826,Washington,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.012218664
+3800,3800,Pennsylvania,23,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8180,High school diploma or equivalent,.012220774
+83000,83195,Ohio,54,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.012227634
+75000,75000,Texas,44,Female,Black/Negro,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",3980,Master's degree,.012254843
+173000,193017,New York,42,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9590,Master's degree,.012257255
+140000,141910,Arkansas,28,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",8190,Bachelor's degree,.012258689
+46000,46161,California,48,Male,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4970,High school diploma or equivalent,.012271445
+38000,38001,Washington,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.012276856
+8000,8000,Idaho,19,Female,White,Separated,No service,Not Hispanic,At work,"Yes, in the labor force",8070,High school diploma or equivalent,.012288691
+150000,151500,Utah,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4170,Bachelor's degree,.012288945
+24000,31800,Maryland,34,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9160,High school diploma or equivalent,.012313883
+60000,60000,Texas,30,Male,White,Never married/single,No service,"Central American, (excluding Salvadoran)",At work,"Yes, in the labor force",770,"12th grade, no diploma",.012321665
+8000,8501,Minnesota,32,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9290,High school diploma or equivalent,.012358309
+18000,18000,Hawaii,30,Male,Hawaiian/Pacific Islander only,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.01238112
+30000,30000,West Virginia,50,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",4970,High school diploma or equivalent,.012384247
+41050,41061,Ohio,56,Female,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",3970,Bachelor's degree,.012389793
+175000,175603,Maryland,62,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",2190,Master's degree,.012401472
+24000,24350,Wisconsin,27,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",2980,Some college but no degree,.012403392
+33000,33050,New York,52,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7980,High school diploma or equivalent,.01241765
+30000,30000,Missouri,28,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",5390,High school diploma or equivalent,.012423472
+128000,128000,California,64,Male,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3390,Bachelor's degree,.012445823
+73000,73000,California,64,Male,White,Divorced,No service,Other Hispanic,At work,"Yes, in the labor force",7290,Bachelor's degree,.012459853
+50000,50450,Colorado,41,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7070,Bachelor's degree,.012462206
+47000,47005,Mississippi,34,Male,Black/Negro,Never married/single,Yes,Not Hispanic,At work,"Yes, in the labor force",9470,Some college but no degree,.012469665
+65000,65001,Rhode Island,43,Male,White,"Married, spouse present",No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",6290,High school diploma or equivalent,.012481648
+50000,50051,Vermont,61,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",1190,Master's degree,.012485026
+55000,55168,Florida,62,Female,White,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",7580,Some college but no degree,.012485919
+16300,16300,North Carolina,44,Male,American Indian/Aleut/Eskimo,Separated,No service,Not Hispanic,"Unemployed, experienced worker","Yes, in the labor force",770,High school diploma or equivalent,.012485931
+88920,89870,Alabama,36,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3080,"Associate's degree, occupational/vocational program",.012488565
+4902,4902,Washington,21,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",5790,Grade 11,.012489549
+65000,67375,Pennsylvania,49,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Bachelor's degree,.012512346
+36000,36050,Virginia,62,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7980,Bachelor's degree,.012524461
+19000,19000,Idaho,52,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,"Associate's degree, academic program",.012528227
+30000,30000,District of Columbia,44,Male,White,Divorced,No service,Salvadoran,At work,"Yes, in the labor force",8680,Grades 5 or 6,.012535163
+58000,58000,Kentucky,48,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",770,"Associate's degree, academic program",.012543462
+15000,15200,New Mexico,34,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4580,High school diploma or equivalent,.012557287
+100000,100226,Florida,51,Female,White,"Married, spouse present",No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Bachelor's degree,.012562852
+22000,22000,California,25,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8770,Some college but no degree,.012574018
+108002,108007,Georgia,39,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6970,Some college but no degree,.012609534
+25000,25005,California,43,Male,White,Separated,No service,Mexican,At work,"Yes, in the labor force",770,High school diploma or equivalent,.012618017
+1700,1700,Louisiana,45,Male,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8660,High school diploma or equivalent,.012634143
+18000,18000,California,50,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",770,High school diploma or equivalent,.01263499
+93000,123172,Wyoming,47,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.012639819
+66000,66701,South Dakota,43,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3960,Bachelor's degree,.012668848
+74000,151253,Hawaii,62,Female,Asian only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.012675014
+24000,24001,Louisiana,30,Female,Black/Negro,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9570,Bachelor's degree,.012682199
+63000,93101,Virginia,63,Male,White,"Married, spouse present",Yes,Not Hispanic,At work,"Yes, in the labor force",7390,Master's degree,.01268292
+16000,16000,Wisconsin,24,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9290,High school diploma or equivalent,.012711619
+36000,42000,Massachusetts,27,Male,White,"Married, spouse absent",No service,Mexican,"NILF, other","No, not in the labor force",0,Bachelor's degree,.012719352
+11700,13700,Illinois,21,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",4490,Some college but no degree,.012759354
+20000,20000,Texas,42,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",7690,High school diploma or equivalent,.012772678
+50000,50010,Massachusetts,64,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3570,High school diploma or equivalent,.012774634
+25000,25000,California,57,Female,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",9290,High school diploma or equivalent,.012774765
+51000,51179,Iowa,44,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Bachelor's degree,.012784839
+70600,70670,Illinois,52,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,High school diploma or equivalent,.012805774
+109000,110210,Ohio,47,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6870,Bachelor's degree,.012814064
+40000,40000,Montana,61,Male,White,"Married, spouse absent",No service,Mexican,At work,"Yes, in the labor force",8680,High school diploma or equivalent,.012818121
+50000,50000,Texas,43,Male,White,"Married, spouse present",No service,Mexican,At work,"Yes, in the labor force",2670,High school diploma or equivalent,.012820129
+25000,25000,Alabama,58,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9570,Some college but no degree,.012825904
+40000,40000,Illinois,50,Male,White,Never married/single,No service,Mexican,At work,"Yes, in the labor force",8680,"12th grade, no diploma",.012830072
+33000,33003,New Jersey,25,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",9380,Some college but no degree,.012844643
+7002,7002,Hawaii,25,Male,Hawaiian/Pacific Islander only,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",6380,High school diploma or equivalent,.012863176
+57000,57005,Massachusetts,52,Male,White,"Married, spouse present",No service,Other Hispanic,At work,"Yes, in the labor force",7870,High school diploma or equivalent,.01286355
+20000,20001,Illinois,37,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8270,Bachelor's degree,.012868953
+56000,56046,Virginia,32,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Master's degree,.012876518
+26000,27000,Kansas,32,Male,White,Separated,No service,Puerto Rican,At work,"Yes, in the labor force",1180,"Associate's degree, academic program",.012910417
+43000,43000,Wyoming,41,Male,White,Divorced,No service,Not Hispanic,"Has job, not at work last week","Yes, in the labor force",180,High school diploma or equivalent,.012932485
+220000,270004,Texas,59,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6690,"Associate's degree, academic program",.012936893
+250000,333890,California,48,Female,Asian only,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3960,Professional school degree,.012943483
+55000,55001,Missouri,45,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9370,Bachelor's degree,.012946832
+193000,198204,Florida,51,Female,Black/Negro,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",8090,Professional school degree,.012948413
+18002,18002,Ohio,35,Female,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",1690,Some college but no degree,.012955825
+1000,1000,Idaho,56,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8190,Some college but no degree,.012966774
+18000,26530,New Mexico,62,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7680,"Associate's degree, academic program",.013006471
+10000,10000,District of Columbia,48,Male,White,Never married/single,No service,Salvadoran,At work,"Yes, in the labor force",770,High school diploma or equivalent,.013021195
+70000,77802,Wisconsin,44,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.013027823
+95000,99605,New Hampshire,59,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",3980,"Associate's degree, academic program",.013029419
+3000,9000,Kansas,19,Male,White,Never married/single,No service,Not Hispanic,"NILF, other","No, not in the labor force",0,Some college but no degree,.013034895
+180000,422224,Massachusetts,35,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",4670,Some college but no degree,.013047684
+22000,22200,Alaska,38,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5390,High school diploma or equivalent,.013048097
+51000,52000,California,42,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",8180,High school diploma or equivalent,.013057942
+35000,35750,Iowa,46,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.01307476
+58000,58013,Michigan,61,Female,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",5070,Some college but no degree,.013088805
+4899,15225,Idaho,30,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,Some college but no degree,.013096785
+50500,50585,Ohio,54,Male,Black/Negro,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7870,High school diploma or equivalent,.013105502
+52000,52007,New Jersey,26,Male,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",9470,High school diploma or equivalent,.013118636
+90000,90097,Maryland,38,Female,White,"Married, spouse present",No service,Not Hispanic,At work,"Yes, in the labor force",7860,Doctorate degree,.013147629
+78000,80150,California,50,Female,Asian only,Divorced,No service,Not Hispanic,At work,"Yes, in the labor force",6990,Bachelor's degree,.013152387
+80000,82211,California,26,Male,White,Never married/single,No service,Not Hispanic,At work,"Yes, in the labor force",7380,"Associate's degree, academic program",.013158651
+130000,130000,District of Columbia,31,Male,White,"Married, spouse absent",No service,Not Hispanic,At work,"Yes, in the labor force",9090,Bachelor's degree,.013169563
+90000,95010,New Jersey,53,Female,White,"Married, spouse present",No service,South American,At work,"Yes, in the labor force",9370,Bachelor's degree,.013193267

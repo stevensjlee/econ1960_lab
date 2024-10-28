@@ -1,0 +1,79 @@
+\documentclass[12pt]{article}
+%%%%%%%%%%%%%%%%%% General pagackages
+\usepackage{amssymb,amsmath,amsfonts,eurosym,ulem,graphicx,
+	caption,color,setspace,sectsty,comment,footmisc,
+	pdflscape,subcaption,array, multicol,multirow,tikz, bm,
+        booktabs, rotating, titling}     
+%%%%%%%%%%%%%%%%%%% Encoding
+\usepackage[utf8]{inputenc}
+%%%%%%%%%%%%%%%%%% Margins and Spacing
+\usepackage[left=1.0in,right=1.0in,top=1in,bottom=1in]{geometry}
+\usepackage{indentfirst}
+%%%%%%%%%%%%%%%%%% References
+\usepackage[sort]{natbib}
+\bibliographystyle{econ}
+%%%%%%%%%%%%%%%%%% Links
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\urlstyle{same} %makes url the same font as text, not courier default
+\newcommand{\doi}[1]{\url{#1}}
+%%%%%%%%%%%%%%%%%% tikz/diagrams
+\usetikzlibrary{arrows,shapes,positioning,intersections,calc}
+%%%%%%%%%%%%%%%%%% table formatting
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\normalem
+\makeatother
+%%%%%%%%%%%%%%%%%% Autoreference names
+\renewcommand{\sectionautorefname}{Section}
+\renewcommand{\subsectionautorefname}{Sub-section}
+\renewcommand{\figureautorefname}{Figure}
+\renewcommand{\tableautorefname}{Table}
+\renewcommand{\figureautorefname}{Figure}
+% equation numbering start at 1
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+%%%%%%%%%%%%%%%%%% Theorem Names
+\newtheorem{prop}{Proposition}
+\newtheorem{definition}{Definition}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+\newtheorem{result}{Result}
+\newtheorem{assumption}{Assumption}
+\newtheorem{theorem}{Theorem}
+
+%%%%%%%%%%%%%%%%%% Title Information
+%title page single spacing 
+\setstretch{1} 
+%subtitle command
+\newcommand{\subtitle}[1]{\posttitle{\par\end{center}\begin{center}\large#1\end{center}\vskip0.5em}}
+
+\title{All Tables and Charts}
+\subtitle{Brown University\\Honors Thesis in Economics}
+
+\begin{document}
+
+\maketitle
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.75\textwidth]{figures/avgwageincome_wage.jpg}
+\end{figure}
+
+
+
+\begin{table}[ht]
+    \centering
+    \caption{Summary Statistics}
+    \input{tables/table1}
+\end{table}
+
+
+
+\begin{table}[ht]
+    \centering
+    \caption{Regression Results}
+     \input{tables/table2}
+\end{table}
+
+\end{document}
