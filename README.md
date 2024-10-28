@@ -1,7 +1,7 @@
-# ECON 1960 Honors Tutorial for Economics Majors
+# ECON 1960 Honors Tutorial for Economics Majors (Lab sessions)
 Department of Economics, Brown University 
 
-Lab sessions
+
 
 Course website: https://jzhangg.github.io/teaching/econ1960_fall2024
 
