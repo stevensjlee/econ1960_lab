@@ -3,7 +3,7 @@ Department of Economics, Brown University
 
 
 
-Course website: [https://jzhangg.github.io/teaching/econ1960_fall2024](https://sites.google.com/view/stevenslee/teaching/econ-1960-honors-tutorial)
+Course website: https://sites.google.com/view/stevenslee/teaching/econ-1960-honors-tutorial
 
 This repository contains the example folder structure of a research project. 
 
